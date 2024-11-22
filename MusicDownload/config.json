@@ -1,0 +1,126 @@
+{
+    "project_name": "house_music_dataset",
+    "version": "1.0.0",
+    
+    "paths": {
+        "downloads_dir": "downloads",
+        "dataset_dir": "dataset",
+        "features_dir": "features",
+        "processed_dir": "processed",
+        "temp_dir": "temp"
+    },
+
+    "download_settings": {
+        "playlists": [
+            {
+                "url": "https://youtube.com/playlist?list=PL2N3NgN3V8FnkaG5kAZEcrofaLQXBTpGG&si=vliaL1KWDLMT0Wsp",
+                "genre": "house",
+                "subgenre": "deep_house",
+                "tags": ["deep house", "electronic"]
+            },
+            {
+                "url": "https://youtube.com/playlist?list=PLgyvcAoYcg6tWTgAaW-01ShB7YAnPdZQ2&si=VvWEmbe8TBMBPchY",
+                "genre": "house",
+                "subgenre": "tech_house",
+                "tags": ["tech house", "electronic"]
+            }
+        ],
+        "skip_existing": true,
+        "check_modified": true,
+        "audio_format": "bestaudio/best",
+        "audio_codec": "mp3",
+        "audio_quality": "192k",
+        "name_format": "%(title)s-%(id)s.%(ext)s",
+        "include_metadata": {
+            "title": true,
+            "artist": true,
+            "album": true,
+            "track": true,
+            "cover": true,
+            "date": true,
+            "lyrics": true
+        },
+        "use_title": true,
+        "use_uploader": true,
+        "use_playlist_name": true
+    },
+
+    "audio_settings": {
+        "target_sr": 44100,
+        "target_channels": 2,
+        "min_duration": 60,
+        "max_duration": 600,
+        "target_lufs": -14.0,
+        "normalize_audio": true,
+        "remove_silence": true,
+        "trim_silence_threshold": -60,
+        "min_silence_duration": 0.5
+    },
+
+    "processing": {
+        "parallel_processing": true,
+        "max_workers": 4,
+        "keep_temp_files": false,
+        "batch_size": 10,
+        "use_gpu": false,
+        "memory_limit": "4GB",
+        "retry_count": 3,
+        "retry_delay": 5
+    },
+
+    "validation_thresholds": {
+        "min_quality_score": 0.7,
+        "min_bitrate": 192000,
+        "max_silence_duration": 10.0,
+        "min_dynamic_range": 20.0,
+        "max_clipping_ratio": 0.01,
+        "required_features": [
+            "tempo",
+            "key",
+            "spectral_contrast"
+        ]
+    },
+
+    "output": {
+        "by_genre": true,
+        "by_subgenre": true,
+        "metadata_format": "json",
+        "feature_format": "h5",
+        "organize_by_quality": true
+    },
+
+    "logging": {
+        "level": "INFO",
+        "console_output": true,
+        "log_file": "pipeline.log",
+        "log_performance": true,
+        "save_statistics": true
+    },
+
+    "feature_extraction": {
+        "temporal": {
+            "extract_tempo": true,
+            "extract_beats": true,
+            "extract_onset": true
+        },
+        "spectral": {
+            "extract_mfcc": true,
+            "n_mfcc": 13,
+            "extract_spectral_contrast": true,
+            "extract_chroma": true
+        },
+        "harmonic": {
+            "extract_key": true,
+            "extract_mode": true,
+            "extract_tuning": true
+        }
+    },
+
+    "cache": {
+        "enabled": true,
+        "location": "cache",
+        "max_size": "10GB",
+        "cleanup_threshold": "8GB",
+        "feature_cache_ttl": 604800
+    }
+}
