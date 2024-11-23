@@ -1,4 +1,4 @@
 *.json
-*.mp3
+MusicDownload/downloads
 env
 __pycache__

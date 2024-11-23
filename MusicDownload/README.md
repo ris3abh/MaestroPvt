@@ -71,7 +71,8 @@ Phase 1 implements a robust data collection and preprocessing pipeline for audio
 cd MusicDownload
 python -m venv env
 source env/bin/activate
-brew install ffmpeg libsndfile
+pip install --upgrade pip
+brew install ffmpeg libsndfile cmake ninja
 pip install -r ../requirements.txt
 
 # or for Ubuntu/Debian
@@ -79,7 +80,8 @@ pip install -r ../requirements.txt
 cd MusicDownload
 python -m venv env
 source env/bin/activate
-sudo apt-get install ffmpeg libsndfile1-dev
+pip install --upgrade pip
+sudo apt-get install ffmpeg libsndfile1-dev cmake ninja
 pip install -r ../requirements.txt
 
 # or for windows
