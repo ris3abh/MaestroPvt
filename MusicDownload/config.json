@@ -78,7 +78,19 @@
             "tempo",
             "key",
             "spectral_contrast"
-        ]
+        ],
+        
+        "processing": {
+            "chunk_duration": 10.0,
+            "max_memory_gb": 4.0,
+            "batch_size": 100,
+            "max_workers": 4
+        },
+        
+        "audio": {
+            "min_duration": 60.0,
+            "min_sample_rate": 44100
+        }
     },
 
     "output": {

@@ -1,140 +1,365 @@
-2024-11-22 03:49:54,684 - ERROR - Error processing 14. places to be-U4htmZsKRWY.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,686 - ERROR - Error processing 5. Clara (the night is dark)-rBO7VKSPhAc.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,687 - ERROR - Error processing 20. Lights Out-koiKZVI-kBU.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,688 - ERROR - Error processing 13. stayinit-3hSQubTxXUk.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,694 - ERROR - Error processing 12. Angie (interlude)-6ycG_maHQCE.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,696 - ERROR - Error processing 16. Rumble-1ZJaCyFJJSg.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,700 - ERROR - Error processing 8. Billie (loving arms)-ylBng2jQvfY.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,703 - ERROR - Error processing 4. Nathan (still breathing)-3eEBQQUHqto.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,706 - ERROR - Error processing 11. leavemealone-Ne_8fXkcAZw.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,707 - ERROR - Error processing 19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,709 - ERROR - Error processing 7. adore u-UJEkJoKn-is.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,711 - ERROR - Error processing 18. Jungle-O10Hs4lVcfs.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,715 - ERROR - Error processing 6. Kyle (i found you)-Ci1KQhYZvMs.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,716 - ERROR - Error processing 3. Kammy (like i do)-xtYyfgfv0BU.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,717 - ERROR - Error processing 9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,721 - ERROR - Error processing 2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,725 - ERROR - Error processing 17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,729 - ERROR - Error processing 10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,743 - ERROR - Error processing 15. Baby again..-uDJjMmLr_JQ.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,745 - ERROR - Error processing 41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,746 - ERROR - Error processing 1. Mike (desert island duvet)-_OuA1qh6ofo.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,754 - ERROR - Error processing 47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,763 - ERROR - Error processing 19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,765 - ERROR - Error processing 44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,766 - ERROR - Error processing 14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,770 - ERROR - Error processing 32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,772 - ERROR - Error processing 38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,777 - ERROR - Error processing 27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,780 - ERROR - Error processing 49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,781 - ERROR - Error processing 35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,786 - ERROR - Error processing 10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,790 - ERROR - Error processing 18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,797 - ERROR - Error processing 3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,798 - ERROR - Error processing 13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,800 - ERROR - Error processing 12. Ce Ce Peniston - Finally (12＂ Choice Mix)-PnvzR1hQGs0.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,806 - ERROR - Error processing 5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,807 - ERROR - Error processing 11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,808 - ERROR - Error processing 36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,811 - ERROR - Error processing 45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,819 - ERROR - Error processing 16. Superfunk - Lucky Star-09ntlxjP1jY.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,820 - ERROR - Error processing 17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,825 - ERROR - Error processing 7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,826 - ERROR - Error processing 25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,834 - ERROR - Error processing 37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,835 - ERROR - Error processing 43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,839 - ERROR - Error processing 1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,840 - ERROR - Error processing 39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,847 - ERROR - Error processing 21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,849 - ERROR - Error processing 22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,849 - ERROR - Error processing 23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,851 - ERROR - Error processing 28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,855 - ERROR - Error processing 15. Phats & Small - Turn Around ＂Hey What's Wrong With You＂-iJPX8zyUmxQ.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,856 - ERROR - Error processing 48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,858 - ERROR - Error processing 33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,866 - ERROR - Error processing 42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,868 - ERROR - Error processing 40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,874 - ERROR - Error processing 9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,875 - ERROR - Error processing 4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,879 - ERROR - Error processing 24. Junior Jack⧸Laurent Wolf - Calinda-QLDxB9HsdmA.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,884 - ERROR - Error processing 34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,884 - ERROR - Error processing 50. BMW 5 Series G31 Touring M550d xDrive ｜ REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,887 - ERROR - Error processing 26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,888 - ERROR - Error processing 46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,897 - ERROR - Error processing 31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,900 - ERROR - Error processing 2. Gadjo - So Many Times-fKrYdb1JaBM.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,901 - ERROR - Error processing 6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,905 - ERROR - Error processing 8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,908 - ERROR - Error processing 29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,915 - ERROR - Error processing 20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:49:54,915 - ERROR - Error processing 30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3: 'FileState' object has no attribute 'validation_extracted'
-2024-11-22 03:57:35,901 - INFO - Skipping 14. places to be-U4htmZsKRWY.mp3 - already processed
-2024-11-22 03:57:35,906 - INFO - Skipping 20. Lights Out-koiKZVI-kBU.mp3 - already processed
-2024-11-22 03:57:35,907 - INFO - Skipping 5. Clara (the night is dark)-rBO7VKSPhAc.mp3 - already processed
-2024-11-22 03:57:35,907 - INFO - Skipping 13. stayinit-3hSQubTxXUk.mp3 - already processed
-2024-11-22 03:57:35,916 - INFO - Skipping 12. Angie (interlude)-6ycG_maHQCE.mp3 - already processed
-2024-11-22 03:57:35,917 - INFO - Skipping 16. Rumble-1ZJaCyFJJSg.mp3 - already processed
-2024-11-22 03:57:35,920 - INFO - Skipping 8. Billie (loving arms)-ylBng2jQvfY.mp3 - already processed
-2024-11-22 03:57:35,925 - INFO - Skipping 4. Nathan (still breathing)-3eEBQQUHqto.mp3 - already processed
-2024-11-22 03:57:35,928 - INFO - Skipping 19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3 - already processed
-2024-11-22 03:57:35,928 - INFO - Skipping 11. leavemealone-Ne_8fXkcAZw.mp3 - already processed
-2024-11-22 03:57:35,932 - INFO - Skipping 7. adore u-UJEkJoKn-is.mp3 - already processed
-2024-11-22 03:57:35,935 - INFO - Skipping 18. Jungle-O10Hs4lVcfs.mp3 - already processed
-2024-11-22 03:57:35,938 - INFO - Skipping 6. Kyle (i found you)-Ci1KQhYZvMs.mp3 - already processed
-2024-11-22 03:57:35,939 - INFO - Skipping 3. Kammy (like i do)-xtYyfgfv0BU.mp3 - already processed
-2024-11-22 03:57:35,943 - INFO - Skipping 9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3 - already processed
-2024-11-22 03:57:35,947 - INFO - Skipping 2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3 - already processed
-2024-11-22 03:57:35,950 - INFO - Skipping 10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3 - already processed
-2024-11-22 03:57:35,951 - INFO - Skipping 17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3 - already processed
-2024-11-22 03:57:35,959 - INFO - Skipping 15. Baby again..-uDJjMmLr_JQ.mp3 - already processed
-2024-11-22 03:57:35,959 - INFO - Skipping 1. Mike (desert island duvet)-_OuA1qh6ofo.mp3 - already processed
-2024-11-22 03:57:35,962 - INFO - Skipping 41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3 - already processed
-2024-11-22 03:57:35,967 - INFO - Skipping 47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3 - already processed
-2024-11-22 03:57:35,971 - INFO - Skipping 19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3 - already processed
-2024-11-22 03:57:35,973 - INFO - Skipping 44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3 - already processed
-2024-11-22 03:57:35,978 - INFO - Skipping 14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3 - already processed
-2024-11-22 03:57:35,981 - INFO - Skipping 32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3 - already processed
-2024-11-22 03:57:35,983 - INFO - Skipping 38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3 - already processed
-2024-11-22 03:57:35,987 - INFO - Skipping 27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3 - already processed
-2024-11-22 03:57:35,994 - INFO - Skipping 49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3 - already processed
-2024-11-22 03:57:35,998 - INFO - Skipping 35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3 - already processed
-2024-11-22 03:57:36,003 - INFO - Skipping 10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3 - already processed
-2024-11-22 03:57:36,010 - INFO - Skipping 18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3 - already processed
-2024-11-22 03:57:36,013 - INFO - Skipping 3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3 - already processed
-2024-11-22 03:57:36,015 - INFO - Skipping 13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3 - already processed
-2024-11-22 03:57:36,021 - INFO - Skipping 12. Ce Ce Peniston - Finally (12＂ Choice Mix)-PnvzR1hQGs0.mp3 - already processed
-2024-11-22 03:57:36,029 - INFO - Skipping 11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3 - already processed
-2024-11-22 03:57:36,032 - INFO - Skipping 5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3 - already processed
-2024-11-22 03:57:36,037 - INFO - Skipping 36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3 - already processed
-2024-11-22 03:57:36,037 - INFO - Skipping 45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3 - already processed
-2024-11-22 03:57:36,049 - INFO - Skipping 17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3 - already processed
-2024-11-22 03:57:36,051 - INFO - Skipping 16. Superfunk - Lucky Star-09ntlxjP1jY.mp3 - already processed
-2024-11-22 03:57:36,051 - INFO - Skipping 25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3 - already processed
-2024-11-22 03:57:36,053 - INFO - Skipping 7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3 - already processed
-2024-11-22 03:57:36,065 - INFO - Skipping 37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3 - already processed
-2024-11-22 03:57:36,069 - INFO - Skipping 43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3 - already processed
-2024-11-22 03:57:36,073 - INFO - Skipping 39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3 - already processed
-2024-11-22 03:57:36,076 - INFO - Skipping 1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3 - already processed
-2024-11-22 03:57:36,078 - INFO - Skipping 21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3 - already processed
-2024-11-22 03:57:36,083 - INFO - Skipping 22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3 - already processed
-2024-11-22 03:57:36,086 - INFO - Skipping 23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3 - already processed
-2024-11-22 03:57:36,087 - INFO - Skipping 28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3 - already processed
-2024-11-22 03:57:36,091 - INFO - Skipping 15. Phats & Small - Turn Around ＂Hey What's Wrong With You＂-iJPX8zyUmxQ.mp3 - already processed
-2024-11-22 03:57:36,094 - INFO - Skipping 48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3 - already processed
-2024-11-22 03:57:36,098 - INFO - Skipping 33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3 - already processed
-2024-11-22 03:57:36,101 - INFO - Skipping 42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3 - already processed
-2024-11-22 03:57:36,110 - INFO - Skipping 40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3 - already processed
-2024-11-22 03:57:36,111 - INFO - Skipping 9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3 - already processed
-2024-11-22 03:57:36,115 - INFO - Skipping 4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3 - already processed
-2024-11-22 03:57:36,123 - INFO - Skipping 24. Junior Jack⧸Laurent Wolf - Calinda-QLDxB9HsdmA.mp3 - already processed
-2024-11-22 03:57:36,126 - INFO - Skipping 50. BMW 5 Series G31 Touring M550d xDrive ｜ REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3 - already processed
-2024-11-22 03:57:36,128 - INFO - Skipping 34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3 - already processed
-2024-11-22 03:57:36,129 - INFO - Skipping 46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3 - already processed
-2024-11-22 03:57:36,133 - INFO - Skipping 26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3 - already processed
-2024-11-22 03:57:36,142 - INFO - Skipping 31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3 - already processed
-2024-11-22 03:57:36,144 - INFO - Skipping 6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3 - already processed
-2024-11-22 03:57:36,145 - INFO - Skipping 2. Gadjo - So Many Times-fKrYdb1JaBM.mp3 - already processed
-2024-11-22 03:57:36,152 - INFO - Skipping 8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3 - already processed
-2024-11-22 03:57:36,155 - INFO - Skipping 29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3 - already processed
-2024-11-22 03:57:36,162 - INFO - Skipping 20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3 - already processed
-2024-11-22 03:57:36,163 - INFO - Skipping 30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3 - already processed
+2024-11-22 19:05:38,655 - ERROR - Error processing 14. places to be-U4htmZsKRWY.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:38,758 - ERROR - Error processing 13. stayinit-3hSQubTxXUk.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:38,773 - ERROR - Error processing 5. Clara (the night is dark)-rBO7VKSPhAc.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:38,842 - ERROR - Error processing 20. Lights Out-koiKZVI-kBU.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:39,395 - ERROR - Error processing 12. Angie (interlude)-6ycG_maHQCE.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:39,415 - ERROR - Error processing 16. Rumble-1ZJaCyFJJSg.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:39,755 - ERROR - Error processing 8. Billie (loving arms)-ylBng2jQvfY.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:40,158 - ERROR - Error processing 4. Nathan (still breathing)-3eEBQQUHqto.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:40,604 - ERROR - Error processing 11. leavemealone-Ne_8fXkcAZw.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:40,806 - ERROR - Error processing 19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:40,923 - ERROR - Error processing 7. adore u-UJEkJoKn-is.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:41,189 - ERROR - Error processing 18. Jungle-O10Hs4lVcfs.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:41,853 - ERROR - Error processing 6. Kyle (i found you)-Ci1KQhYZvMs.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:41,873 - ERROR - Error processing 3. Kammy (like i do)-xtYyfgfv0BU.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:41,950 - ERROR - Error processing 9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:42,425 - ERROR - Error processing 2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:42,996 - ERROR - Error processing 10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:43,232 - ERROR - Error processing 17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:43,551 - ERROR - Error processing 15. Baby again..-uDJjMmLr_JQ.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:43,759 - ERROR - Error processing 1. Mike (desert island duvet)-_OuA1qh6ofo.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:44,289 - ERROR - Error processing 41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:44,915 - ERROR - Error processing 47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:45,361 - ERROR - Error processing 19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:45,422 - ERROR - Error processing 44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:46,275 - ERROR - Error processing 14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:46,343 - ERROR - Error processing 38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:46,484 - ERROR - Error processing 32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:47,411 - ERROR - Error processing 27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:47,452 - ERROR - Error processing 49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:47,929 - ERROR - Error processing 35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:49,556 - ERROR - Error processing 18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:49,612 - ERROR - Error processing 10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:50,596 - ERROR - Error processing 13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:50,676 - ERROR - Error processing 3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:50,877 - ERROR - Error processing 12. Ce Ce Peniston - Finally (12＂ Choice Mix)-PnvzR1hQGs0.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:51,819 - ERROR - Error processing 5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:51,924 - ERROR - Error processing 11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:51,994 - ERROR - Error processing 36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:52,986 - ERROR - Error processing 45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:53,643 - ERROR - Error processing 16. Superfunk - Lucky Star-09ntlxjP1jY.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:54,329 - ERROR - Error processing 17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:54,805 - ERROR - Error processing 7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:54,978 - ERROR - Error processing 25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:56,097 - ERROR - Error processing 43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:56,104 - ERROR - Error processing 37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:56,894 - ERROR - Error processing 39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:57,088 - ERROR - Error processing 1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:57,969 - ERROR - Error processing 21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:58,161 - ERROR - Error processing 22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:58,310 - ERROR - Error processing 23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:58,325 - ERROR - Error processing 28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:59,003 - ERROR - Error processing 15. Phats & Small - Turn Around ＂Hey What's Wrong With You＂-iJPX8zyUmxQ.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:59,143 - ERROR - Error processing 48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:05:59,555 - ERROR - Error processing 33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:00,271 - ERROR - Error processing 42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:00,835 - ERROR - Error processing 40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:01,502 - ERROR - Error processing 9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:01,722 - ERROR - Error processing 4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:02,144 - ERROR - Error processing 24. Junior Jack⧸Laurent Wolf - Calinda-QLDxB9HsdmA.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:03,391 - ERROR - Error processing 34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:03,392 - ERROR - Error processing 50. BMW 5 Series G31 Touring M550d xDrive ｜ REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:03,668 - ERROR - Error processing 26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:03,716 - ERROR - Error processing 46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:04,932 - ERROR - Error processing 31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:05,845 - ERROR - Error processing 2. Gadjo - So Many Times-fKrYdb1JaBM.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:06,085 - ERROR - Error processing 6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:06,635 - ERROR - Error processing 8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:07,357 - ERROR - Error processing 29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:08,194 - ERROR - Error processing 30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:06:08,228 - ERROR - Error processing 20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3: module 'datetime' has no attribute 'now'
+2024-11-22 19:29:14,817 - ERROR - Error processing 14. places to be-U4htmZsKRWY.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,819 - ERROR - Error processing 20. Lights Out-koiKZVI-kBU.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,820 - ERROR - Error processing 13. stayinit-3hSQubTxXUk.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,820 - ERROR - Error processing 5. Clara (the night is dark)-rBO7VKSPhAc.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,826 - ERROR - Error processing 12. Angie (interlude)-6ycG_maHQCE.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,827 - ERROR - Error processing 16. Rumble-1ZJaCyFJJSg.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,833 - ERROR - Error processing 8. Billie (loving arms)-ylBng2jQvfY.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,837 - ERROR - Error processing 4. Nathan (still breathing)-3eEBQQUHqto.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,841 - ERROR - Error processing 11. leavemealone-Ne_8fXkcAZw.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,842 - ERROR - Error processing 19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,846 - ERROR - Error processing 7. adore u-UJEkJoKn-is.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,852 - ERROR - Error processing 18. Jungle-O10Hs4lVcfs.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,854 - ERROR - Error processing 6. Kyle (i found you)-Ci1KQhYZvMs.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,855 - ERROR - Error processing 3. Kammy (like i do)-xtYyfgfv0BU.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,857 - ERROR - Error processing 9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,864 - ERROR - Error processing 2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,866 - ERROR - Error processing 10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,866 - ERROR - Error processing 17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,871 - ERROR - Error processing 15. Baby again..-uDJjMmLr_JQ.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,873 - ERROR - Error processing 1. Mike (desert island duvet)-_OuA1qh6ofo.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,874 - ERROR - Error processing 41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,880 - ERROR - Error processing 47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,884 - ERROR - Error processing 44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,885 - ERROR - Error processing 19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,888 - ERROR - Error processing 14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,891 - ERROR - Error processing 32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,892 - ERROR - Error processing 38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,899 - ERROR - Error processing 27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,899 - ERROR - Error processing 49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,903 - ERROR - Error processing 35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,908 - ERROR - Error processing 10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,913 - ERROR - Error processing 18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,917 - ERROR - Error processing 13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,919 - ERROR - Error processing 3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,922 - ERROR - Error processing 12. Ce Ce Peniston - Finally (12＂ Choice Mix)-PnvzR1hQGs0.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,927 - ERROR - Error processing 11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,930 - ERROR - Error processing 5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,931 - ERROR - Error processing 36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,934 - ERROR - Error processing 45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,942 - ERROR - Error processing 17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,943 - ERROR - Error processing 16. Superfunk - Lucky Star-09ntlxjP1jY.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,948 - ERROR - Error processing 7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,949 - ERROR - Error processing 25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,959 - ERROR - Error processing 37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,961 - ERROR - Error processing 43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,966 - ERROR - Error processing 1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,966 - ERROR - Error processing 39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,973 - ERROR - Error processing 21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,975 - ERROR - Error processing 22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,976 - ERROR - Error processing 23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,978 - ERROR - Error processing 28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,982 - ERROR - Error processing 15. Phats & Small - Turn Around ＂Hey What's Wrong With You＂-iJPX8zyUmxQ.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,983 - ERROR - Error processing 48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,985 - ERROR - Error processing 33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,991 - ERROR - Error processing 42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:14,995 - ERROR - Error processing 40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,000 - ERROR - Error processing 9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,001 - ERROR - Error processing 4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,005 - ERROR - Error processing 24. Junior Jack⧸Laurent Wolf - Calinda-QLDxB9HsdmA.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,009 - ERROR - Error processing 34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,010 - ERROR - Error processing 50. BMW 5 Series G31 Touring M550d xDrive ｜ REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,014 - ERROR - Error processing 26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,015 - ERROR - Error processing 46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,023 - ERROR - Error processing 31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,026 - ERROR - Error processing 6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,028 - ERROR - Error processing 2. Gadjo - So Many Times-fKrYdb1JaBM.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,032 - ERROR - Error processing 8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,035 - ERROR - Error processing 29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,044 - ERROR - Error processing 30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:29:15,044 - ERROR - Error processing 20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3: 'FileState' object has no attribute 'validation_extracted'
+2024-11-22 19:36:33,793 - INFO - Skipping 14. places to be-U4htmZsKRWY.mp3 - already processed
+2024-11-22 19:36:33,797 - INFO - Skipping 5. Clara (the night is dark)-rBO7VKSPhAc.mp3 - already processed
+2024-11-22 19:36:33,798 - INFO - Skipping 13. stayinit-3hSQubTxXUk.mp3 - already processed
+2024-11-22 19:36:33,799 - INFO - Skipping 20. Lights Out-koiKZVI-kBU.mp3 - already processed
+2024-11-22 19:36:33,804 - INFO - Skipping 16. Rumble-1ZJaCyFJJSg.mp3 - already processed
+2024-11-22 19:36:33,805 - INFO - Skipping 12. Angie (interlude)-6ycG_maHQCE.mp3 - already processed
+2024-11-22 19:36:33,807 - INFO - Skipping 8. Billie (loving arms)-ylBng2jQvfY.mp3 - already processed
+2024-11-22 19:36:33,812 - INFO - Skipping 4. Nathan (still breathing)-3eEBQQUHqto.mp3 - already processed
+2024-11-22 19:36:33,814 - INFO - Skipping 11. leavemealone-Ne_8fXkcAZw.mp3 - already processed
+2024-11-22 19:36:33,814 - INFO - Skipping 19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3 - already processed
+2024-11-22 19:36:33,818 - INFO - Skipping 7. adore u-UJEkJoKn-is.mp3 - already processed
+2024-11-22 19:36:33,820 - INFO - Skipping 18. Jungle-O10Hs4lVcfs.mp3 - already processed
+2024-11-22 19:36:33,824 - INFO - Skipping 6. Kyle (i found you)-Ci1KQhYZvMs.mp3 - already processed
+2024-11-22 19:36:33,825 - INFO - Skipping 3. Kammy (like i do)-xtYyfgfv0BU.mp3 - already processed
+2024-11-22 19:36:33,827 - INFO - Skipping 9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3 - already processed
+2024-11-22 19:36:33,831 - INFO - Skipping 2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3 - already processed
+2024-11-22 19:36:33,834 - INFO - Skipping 10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3 - already processed
+2024-11-22 19:36:33,835 - INFO - Skipping 17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3 - already processed
+2024-11-22 19:36:33,841 - INFO - Skipping 15. Baby again..-uDJjMmLr_JQ.mp3 - already processed
+2024-11-22 19:36:33,843 - INFO - Skipping 1. Mike (desert island duvet)-_OuA1qh6ofo.mp3 - already processed
+2024-11-22 19:36:33,846 - INFO - Skipping 41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3 - already processed
+2024-11-22 19:36:33,850 - INFO - Skipping 47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3 - already processed
+2024-11-22 19:36:33,855 - INFO - Skipping 19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3 - already processed
+2024-11-22 19:36:33,856 - INFO - Skipping 44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3 - already processed
+2024-11-22 19:36:33,860 - INFO - Skipping 14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3 - already processed
+2024-11-22 19:36:33,864 - INFO - Skipping 32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3 - already processed
+2024-11-22 19:36:33,865 - INFO - Skipping 38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3 - already processed
+2024-11-22 19:36:33,871 - INFO - Skipping 27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3 - already processed
+2024-11-22 19:36:33,873 - INFO - Skipping 49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3 - already processed
+2024-11-22 19:36:33,877 - INFO - Skipping 35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3 - already processed
+2024-11-22 19:36:33,882 - INFO - Skipping 10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3 - already processed
+2024-11-22 19:36:33,888 - INFO - Skipping 18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3 - already processed
+2024-11-22 19:36:33,893 - INFO - Skipping 13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3 - already processed
+2024-11-22 19:36:33,893 - INFO - Skipping 3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3 - already processed
+2024-11-22 19:36:33,898 - INFO - Skipping 12. Ce Ce Peniston - Finally (12＂ Choice Mix)-PnvzR1hQGs0.mp3 - already processed
+2024-11-22 19:36:33,904 - INFO - Skipping 5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3 - already processed
+2024-11-22 19:36:33,906 - INFO - Skipping 11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3 - already processed
+2024-11-22 19:36:33,908 - INFO - Skipping 36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3 - already processed
+2024-11-22 19:36:33,910 - INFO - Skipping 45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3 - already processed
+2024-11-22 19:36:33,925 - INFO - Skipping 16. Superfunk - Lucky Star-09ntlxjP1jY.mp3 - already processed
+2024-11-22 19:36:33,926 - INFO - Skipping 17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3 - already processed
+2024-11-22 19:36:33,930 - INFO - Skipping 25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3 - already processed
+2024-11-22 19:36:33,931 - INFO - Skipping 7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3 - already processed
+2024-11-22 19:36:33,941 - INFO - Skipping 43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3 - already processed
+2024-11-22 19:36:33,941 - INFO - Skipping 37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3 - already processed
+2024-11-22 19:36:33,946 - INFO - Skipping 1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3 - already processed
+2024-11-22 19:36:33,950 - INFO - Skipping 39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3 - already processed
+2024-11-22 19:36:33,955 - INFO - Skipping 21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3 - already processed
+2024-11-22 19:36:33,957 - INFO - Skipping 22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3 - already processed
+2024-11-22 19:36:33,960 - INFO - Skipping 28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3 - already processed
+2024-11-22 19:36:33,961 - INFO - Skipping 23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3 - already processed
+2024-11-22 19:36:33,966 - INFO - Skipping 15. Phats & Small - Turn Around ＂Hey What's Wrong With You＂-iJPX8zyUmxQ.mp3 - already processed
+2024-11-22 19:36:33,968 - INFO - Skipping 48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3 - already processed
+2024-11-22 19:36:33,972 - INFO - Skipping 33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3 - already processed
+2024-11-22 19:36:33,978 - INFO - Skipping 42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3 - already processed
+2024-11-22 19:36:33,985 - INFO - Skipping 40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3 - already processed
+2024-11-22 19:36:33,988 - INFO - Skipping 4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3 - already processed
+2024-11-22 19:36:33,989 - INFO - Skipping 9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3 - already processed
+2024-11-22 19:36:33,996 - INFO - Skipping 50. BMW 5 Series G31 Touring M550d xDrive ｜ REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3 - already processed
+2024-11-22 19:36:33,996 - INFO - Skipping 24. Junior Jack⧸Laurent Wolf - Calinda-QLDxB9HsdmA.mp3 - already processed
+2024-11-22 19:36:33,998 - INFO - Skipping 34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3 - already processed
+2024-11-22 19:36:34,004 - INFO - Skipping 46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3 - already processed
+2024-11-22 19:36:34,005 - INFO - Skipping 26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3 - already processed
+2024-11-22 19:36:34,013 - INFO - Skipping 31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3 - already processed
+2024-11-22 19:36:34,015 - INFO - Skipping 6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3 - already processed
+2024-11-22 19:36:34,019 - INFO - Skipping 2. Gadjo - So Many Times-fKrYdb1JaBM.mp3 - already processed
+2024-11-22 19:36:34,024 - INFO - Skipping 8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3 - already processed
+2024-11-22 19:36:34,024 - INFO - Skipping 29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3 - already processed
+2024-11-22 19:36:34,032 - INFO - Skipping 30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3 - already processed
+2024-11-22 19:36:34,033 - INFO - Skipping 20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3 - already processed
+2024-11-22 20:15:54,452 - INFO - Skipping 14. places to be-U4htmZsKRWY.mp3 - already processed
+2024-11-22 20:15:54,455 - INFO - Skipping 5. Clara (the night is dark)-rBO7VKSPhAc.mp3 - already processed
+2024-11-22 20:15:54,455 - INFO - Skipping 20. Lights Out-koiKZVI-kBU.mp3 - already processed
+2024-11-22 20:15:54,456 - INFO - Skipping 13. stayinit-3hSQubTxXUk.mp3 - already processed
+2024-11-22 20:15:54,462 - INFO - Skipping 12. Angie (interlude)-6ycG_maHQCE.mp3 - already processed
+2024-11-22 20:15:54,463 - INFO - Skipping 16. Rumble-1ZJaCyFJJSg.mp3 - already processed
+2024-11-22 20:15:54,470 - INFO - Skipping 8. Billie (loving arms)-ylBng2jQvfY.mp3 - already processed
+2024-11-22 20:15:54,474 - INFO - Skipping 4. Nathan (still breathing)-3eEBQQUHqto.mp3 - already processed
+2024-11-22 20:15:54,476 - INFO - Skipping 11. leavemealone-Ne_8fXkcAZw.mp3 - already processed
+2024-11-22 20:15:54,477 - INFO - Skipping 19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3 - already processed
+2024-11-22 20:15:54,480 - INFO - Skipping 7. adore u-UJEkJoKn-is.mp3 - already processed
+2024-11-22 20:15:54,485 - INFO - Skipping 18. Jungle-O10Hs4lVcfs.mp3 - already processed
+2024-11-22 20:15:54,492 - INFO - Skipping 6. Kyle (i found you)-Ci1KQhYZvMs.mp3 - already processed
+2024-11-22 20:15:54,492 - INFO - Skipping 3. Kammy (like i do)-xtYyfgfv0BU.mp3 - already processed
+2024-11-22 20:15:54,496 - INFO - Skipping 9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3 - already processed
+2024-11-22 20:15:54,503 - INFO - Skipping 2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3 - already processed
+2024-11-22 20:15:54,507 - INFO - Skipping 10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3 - already processed
+2024-11-22 20:15:54,509 - INFO - Skipping 17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3 - already processed
+2024-11-22 20:15:54,515 - INFO - Skipping 15. Baby again..-uDJjMmLr_JQ.mp3 - already processed
+2024-11-22 20:15:54,518 - INFO - Skipping 1. Mike (desert island duvet)-_OuA1qh6ofo.mp3 - already processed
+2024-11-22 20:15:54,521 - INFO - Skipping 41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3 - already processed
+2024-11-22 20:15:54,525 - INFO - Skipping 47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3 - already processed
+2024-11-22 20:15:54,531 - INFO - Skipping 19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3 - already processed
+2024-11-22 20:15:54,533 - INFO - Skipping 44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3 - already processed
+2024-11-22 20:15:54,541 - INFO - Skipping 14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3 - already processed
+2024-11-22 20:15:54,545 - INFO - Skipping 32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3 - already processed
+2024-11-22 20:15:54,547 - INFO - Skipping 38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3 - already processed
+2024-11-22 20:15:54,558 - INFO - Skipping 27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3 - already processed
+2024-11-22 20:15:54,562 - INFO - Skipping 49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3 - already processed
+2024-11-22 20:15:54,566 - INFO - Skipping 35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3 - already processed
+2024-11-22 20:15:54,575 - INFO - Skipping 10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3 - already processed
+2024-11-22 20:15:54,580 - INFO - Skipping 18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3 - already processed
+2024-11-22 20:15:54,587 - INFO - Skipping 13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3 - already processed
+2024-11-22 20:15:54,588 - INFO - Skipping 3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3 - already processed
+2024-11-22 20:15:54,591 - INFO - Skipping 12. Ce Ce Peniston - Finally (12＂ Choice Mix)-PnvzR1hQGs0.mp3 - already processed
+2024-11-22 20:15:54,599 - INFO - Skipping 5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3 - already processed
+2024-11-22 20:15:54,602 - INFO - Skipping 11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3 - already processed
+2024-11-22 20:15:54,602 - INFO - Skipping 36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3 - already processed
+2024-11-22 20:15:54,604 - INFO - Skipping 45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3 - already processed
+2024-11-22 20:15:54,621 - INFO - Skipping 16. Superfunk - Lucky Star-09ntlxjP1jY.mp3 - already processed
+2024-11-22 20:15:54,621 - INFO - Skipping 17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3 - already processed
+2024-11-22 20:15:54,627 - INFO - Skipping 25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3 - already processed
+2024-11-22 20:15:54,629 - INFO - Skipping 7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3 - already processed
+2024-11-22 20:15:54,645 - INFO - Skipping 43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3 - already processed
+2024-11-22 20:15:54,645 - INFO - Skipping 37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3 - already processed
+2024-11-22 20:15:54,648 - INFO - Skipping 1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3 - already processed
+2024-11-22 20:15:54,654 - INFO - Skipping 39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3 - already processed
+2024-11-22 20:15:54,659 - INFO - Skipping 21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3 - already processed
+2024-11-22 20:15:54,659 - INFO - Skipping 22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3 - already processed
+2024-11-22 20:15:54,664 - INFO - Skipping 28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3 - already processed
+2024-11-22 20:15:54,664 - INFO - Skipping 23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3 - already processed
+2024-11-22 20:15:54,669 - INFO - Skipping 48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3 - already processed
+2024-11-22 20:15:54,671 - INFO - Skipping 15. Phats & Small - Turn Around ＂Hey What's Wrong With You＂-iJPX8zyUmxQ.mp3 - already processed
+2024-11-22 20:15:54,680 - INFO - Skipping 33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3 - already processed
+2024-11-22 20:15:54,691 - INFO - Skipping 42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3 - already processed
+2024-11-22 20:15:54,698 - INFO - Skipping 40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3 - already processed
+2024-11-22 20:15:54,704 - INFO - Skipping 9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3 - already processed
+2024-11-22 20:15:54,704 - INFO - Skipping 4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3 - already processed
+2024-11-22 20:15:54,711 - INFO - Skipping 24. Junior Jack⧸Laurent Wolf - Calinda-QLDxB9HsdmA.mp3 - already processed
+2024-11-22 20:15:54,713 - INFO - Skipping 50. BMW 5 Series G31 Touring M550d xDrive ｜ REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3 - already processed
+2024-11-22 20:15:54,714 - INFO - Skipping 34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3 - already processed
+2024-11-22 20:15:54,720 - INFO - Skipping 46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3 - already processed
+2024-11-22 20:15:54,721 - INFO - Skipping 26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3 - already processed
+2024-11-22 20:15:54,730 - INFO - Skipping 31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3 - already processed
+2024-11-22 20:15:54,734 - INFO - Skipping 6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3 - already processed
+2024-11-22 20:15:54,738 - INFO - Skipping 2. Gadjo - So Many Times-fKrYdb1JaBM.mp3 - already processed
+2024-11-22 20:15:54,753 - INFO - Skipping 8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3 - already processed
+2024-11-22 20:15:54,754 - INFO - Skipping 29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3 - already processed
+2024-11-22 20:15:54,760 - INFO - Skipping 30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3 - already processed
+2024-11-22 20:15:54,760 - INFO - Skipping 20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3 - already processed
+2024-11-22 20:17:10,827 - ERROR - Download processing error: name 'multiprocessing' is not defined
+Traceback (most recent call last):
+  File "/Users/rishabhsharma/Documents/GitHub/MaestroPvt/MusicDownload/optimized_pipeline.py", line 117, in process_downloads
+    max(1, multiprocessing.cpu_count() - 1)
+NameError: name 'multiprocessing' is not defined
+2024-11-22 20:18:12,351 - INFO - Validating 70 files using 7 workers...
+2024-11-22 20:18:12,352 - ERROR - Download processing error: 'list' object has no attribute 'iterdir'
+Traceback (most recent call last):
+  File "/Users/rishabhsharma/Documents/GitHub/MaestroPvt/MusicDownload/optimized_pipeline.py", line 139, in process_downloads
+    batch_results = quality_validator.validate_dataset(
+  File "/Users/rishabhsharma/Documents/GitHub/MaestroPvt/MusicDownload/music_download/quality_validator.py", line 218, in validate_dataset
+    for genre_dir in downloads_dir.iterdir():
+AttributeError: 'list' object has no attribute 'iterdir'
+2024-11-22 20:21:30,644 - INFO - Validating 70 files using 4 workers...
+2024-11-22 20:22:27,481 - INFO - Validation complete: 0 passed, 70 failed
+2024-11-22 20:30:09,851 - INFO - Skipping 14. places to be-U4htmZsKRWY.mp3 - already processed
+2024-11-22 20:30:09,857 - INFO - Skipping 5. Clara (the night is dark)-rBO7VKSPhAc.mp3 - already processed
+2024-11-22 20:30:09,858 - INFO - Skipping 13. stayinit-3hSQubTxXUk.mp3 - already processed
+2024-11-22 20:30:09,859 - INFO - Skipping 20. Lights Out-koiKZVI-kBU.mp3 - already processed
+2024-11-22 20:30:09,864 - INFO - Skipping 12. Angie (interlude)-6ycG_maHQCE.mp3 - already processed
+2024-11-22 20:30:09,865 - INFO - Skipping 16. Rumble-1ZJaCyFJJSg.mp3 - already processed
+2024-11-22 20:30:09,868 - INFO - Skipping 8. Billie (loving arms)-ylBng2jQvfY.mp3 - already processed
+2024-11-22 20:30:09,872 - INFO - Skipping 4. Nathan (still breathing)-3eEBQQUHqto.mp3 - already processed
+2024-11-22 20:30:09,875 - INFO - Skipping 11. leavemealone-Ne_8fXkcAZw.mp3 - already processed
+2024-11-22 20:30:09,875 - INFO - Skipping 19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3 - already processed
+2024-11-22 20:30:09,878 - INFO - Skipping 7. adore u-UJEkJoKn-is.mp3 - already processed
+2024-11-22 20:30:09,883 - INFO - Skipping 18. Jungle-O10Hs4lVcfs.mp3 - already processed
+2024-11-22 20:30:09,886 - INFO - Skipping 6. Kyle (i found you)-Ci1KQhYZvMs.mp3 - already processed
+2024-11-22 20:30:09,887 - INFO - Skipping 3. Kammy (like i do)-xtYyfgfv0BU.mp3 - already processed
+2024-11-22 20:30:09,888 - INFO - Skipping 9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3 - already processed
+2024-11-22 20:30:09,894 - INFO - Skipping 2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3 - already processed
+2024-11-22 20:30:09,897 - INFO - Skipping 10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3 - already processed
+2024-11-22 20:30:09,898 - INFO - Skipping 17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3 - already processed
+2024-11-22 20:30:09,903 - INFO - Skipping 15. Baby again..-uDJjMmLr_JQ.mp3 - already processed
+2024-11-22 20:30:09,905 - INFO - Skipping 1. Mike (desert island duvet)-_OuA1qh6ofo.mp3 - already processed
+2024-11-22 20:30:09,908 - INFO - Skipping 41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3 - already processed
+2024-11-22 20:30:09,913 - INFO - Skipping 47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3 - already processed
+2024-11-22 20:30:09,918 - INFO - Skipping 19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3 - already processed
+2024-11-22 20:30:09,919 - INFO - Skipping 44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3 - already processed
+2024-11-22 20:30:09,923 - INFO - Skipping 14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3 - already processed
+2024-11-22 20:30:09,935 - INFO - Skipping 32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3 - already processed
+2024-11-22 20:30:09,936 - INFO - Skipping 38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3 - already processed
+2024-11-22 20:30:09,943 - INFO - Skipping 27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3 - already processed
+2024-11-22 20:30:09,945 - INFO - Skipping 49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3 - already processed
+2024-11-22 20:30:09,949 - INFO - Skipping 35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3 - already processed
+2024-11-22 20:30:09,954 - INFO - Skipping 10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3 - already processed
+2024-11-22 20:30:09,964 - INFO - Skipping 18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3 - already processed
+2024-11-22 20:30:09,973 - INFO - Skipping 3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3 - already processed
+2024-11-22 20:30:09,974 - INFO - Skipping 13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3 - already processed
+2024-11-22 20:30:09,978 - INFO - Skipping 12. Ce Ce Peniston - Finally (12＂ Choice Mix)-PnvzR1hQGs0.mp3 - already processed
+2024-11-22 20:30:09,984 - INFO - Skipping 5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3 - already processed
+2024-11-22 20:30:09,985 - INFO - Skipping 11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3 - already processed
+2024-11-22 20:30:09,987 - INFO - Skipping 45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3 - already processed
+2024-11-22 20:30:09,988 - INFO - Skipping 36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3 - already processed
+2024-11-22 20:30:09,999 - INFO - Skipping 17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3 - already processed
+2024-11-22 20:30:10,000 - INFO - Skipping 16. Superfunk - Lucky Star-09ntlxjP1jY.mp3 - already processed
+2024-11-22 20:30:10,004 - INFO - Skipping 7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3 - already processed
+2024-11-22 20:30:10,005 - INFO - Skipping 25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3 - already processed
+2024-11-22 20:30:10,018 - INFO - Skipping 37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3 - already processed
+2024-11-22 20:30:10,019 - INFO - Skipping 43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3 - already processed
+2024-11-22 20:30:10,023 - INFO - Skipping 1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3 - already processed
+2024-11-22 20:30:10,026 - INFO - Skipping 39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3 - already processed
+2024-11-22 20:30:10,030 - INFO - Skipping 21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3 - already processed
+2024-11-22 20:30:10,034 - INFO - Skipping 22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3 - already processed
+2024-11-22 20:30:10,037 - INFO - Skipping 28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3 - already processed
+2024-11-22 20:30:10,037 - INFO - Skipping 23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3 - already processed
+2024-11-22 20:30:10,040 - INFO - Skipping 15. Phats & Small - Turn Around ＂Hey What's Wrong With You＂-iJPX8zyUmxQ.mp3 - already processed
+2024-11-22 20:30:10,042 - INFO - Skipping 48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3 - already processed
+2024-11-22 20:30:10,048 - INFO - Skipping 33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3 - already processed
+2024-11-22 20:30:10,051 - INFO - Skipping 42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3 - already processed
+2024-11-22 20:30:10,061 - INFO - Skipping 40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3 - already processed
+2024-11-22 20:30:10,063 - INFO - Skipping 9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3 - already processed
+2024-11-22 20:30:10,065 - INFO - Skipping 4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3 - already processed
+2024-11-22 20:30:10,073 - INFO - Skipping 50. BMW 5 Series G31 Touring M550d xDrive ｜ REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3 - already processed
+2024-11-22 20:30:10,073 - INFO - Skipping 24. Junior Jack⧸Laurent Wolf - Calinda-QLDxB9HsdmA.mp3 - already processed
+2024-11-22 20:30:10,076 - INFO - Skipping 34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3 - already processed
+2024-11-22 20:30:10,080 - INFO - Skipping 46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3 - already processed
+2024-11-22 20:30:10,082 - INFO - Skipping 26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3 - already processed
+2024-11-22 20:30:10,092 - INFO - Skipping 31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3 - already processed
+2024-11-22 20:30:10,095 - INFO - Skipping 6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3 - already processed
+2024-11-22 20:30:10,097 - INFO - Skipping 2. Gadjo - So Many Times-fKrYdb1JaBM.mp3 - already processed
+2024-11-22 20:30:10,103 - INFO - Skipping 8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3 - already processed
+2024-11-22 20:30:10,105 - INFO - Skipping 29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3 - already processed
+2024-11-22 20:30:10,111 - INFO - Skipping 30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3 - already processed
+2024-11-22 20:30:10,111 - INFO - Skipping 20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3 - already processed

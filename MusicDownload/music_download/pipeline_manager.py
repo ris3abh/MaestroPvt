@@ -19,10 +19,11 @@ import threading
 class FileState:
     hash: str
     last_processed: float
-    features_extracted: bool
-    standardized: bool
-    validated: bool
-    metadata_extracted: bool
+    features_extracted: bool = False
+    standardized: bool = False
+    validated: bool = False
+    validation_extracted: bool = False  # Add this line
+    metadata_extracted: bool = False
 
 class PipelineManager:
     def __init__(self, project_root: Path):

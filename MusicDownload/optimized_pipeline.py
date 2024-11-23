@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 # optimized_pipeline.py
 
+import gc
 import argparse
 import time
+import logging
 from pathlib import Path
 from typing import Dict, Any
+import multiprocessing
 import json
 import sys
 
@@ -38,7 +41,9 @@ class OptimizedPipeline:
         self.preprocessor = AudioPreprocessor()
         self.feature_extractor = FeatureExtractor()
         self.metadata_processor = MetadataProcessor(self.paths['dataset_dir'])
-        self.quality_validator = AudioQualityValidator()
+        self.quality_validator = AudioQualityValidator(chunk_duration=10.0,  # Process 10 seconds at a time
+                                                        max_memory_gb=4.0     # Limit memory usage per process
+                                                    )
         
         # Statistics
         self.stats = {
@@ -70,7 +75,7 @@ class OptimizedPipeline:
             print(f"- {key}: {path}")
 
     def process_downloads(self):
-        """Download and validate new tracks"""
+        """Download and validate new tracks with improved memory management and parallel processing"""
         try:
             download_pipeline = MusicDownloadPipeline(
                 self.config_path,
@@ -78,40 +83,110 @@ class OptimizedPipeline:
             )
             start_time = time.time()
             
+            # Initialize the improved validator with configurable settings
+            quality_validator = AudioQualityValidator(
+                chunk_duration=self.config['validation_thresholds']['processing'].get('chunk_duration', 10.0),
+                max_memory_gb=self.config['validation_thresholds']['processing'].get('max_memory_gb', 4.0),
+                min_duration=self.config['validation_thresholds']['audio'].get('min_duration', 60.0),
+                min_sample_rate=self.config['validation_thresholds']['audio'].get('min_sample_rate', 44100),
+                min_dynamic_range=self.config['validation_thresholds'].get('min_dynamic_range', 20.0),
+                max_clipping_ratio=self.config['validation_thresholds'].get('max_clipping_ratio', 0.01)
+            )
+            
+            # Download new tracks
             downloaded_files = download_pipeline.run(
                 skip_existing=self.config['download_settings']['skip_existing'],
                 check_modified=self.config['download_settings']['check_modified']
             )
             
-            # If no new files were tracked, scan the downloads directory
+            # Scan for existing files if no new downloads
             if not downloaded_files:
-                print("Scanning downloads directory for unprocessed files...")
+                logging.info("Scanning downloads directory for unprocessed files...")
                 downloaded_files = []
                 for genre_dir in self.paths['downloads_dir'].iterdir():
                     if genre_dir.is_dir():
-                        for audio_file in genre_dir.rglob("*.mp3"):
-                            downloaded_files.append(audio_file)
-                print(f"Found {len(downloaded_files)} existing files")
+                        downloaded_files.extend(list(genre_dir.rglob("*.mp3")))
+                logging.info(f"Found {len(downloaded_files)} existing files")
             
+            validation_results = None
             if downloaded_files:
-                # Validate new downloads
-                print(f"Validating {len(downloaded_files)} files...")
-                self.pipeline_manager.process_batch(
-                    downloaded_files,
-                    self.quality_validator,
-                    phase="validation"
+                # Determine optimal number of workers based on CPU cores and config
+                num_workers = min(
+                    len(downloaded_files),
+                    self.config['validation_thresholds']['processing'].get(
+                        'max_workers',
+                        max(1, multiprocessing.cpu_count() - 1)
+                    )
                 )
+                
+                logging.info(f"Validating {len(downloaded_files)} files using {num_workers} workers...")
+                
+                # Process validation in batches to manage memory
+                batch_size = self.config['validation_thresholds']['processing'].get('batch_size', 100)
+                
+                # Process files in batches
+                total_results = {
+                    "files": {},
+                    "summary": {
+                        "total_files": 0,
+                        "passed_files": 0,
+                        "failed_files": 0,
+                        "average_metrics": {}
+                    }
+                }
+                
+                for i in range(0, len(downloaded_files), batch_size):
+                    batch = downloaded_files[i:i + batch_size]
+                    # Pass the batch directly as a list of files
+                    batch_results = quality_validator.validate_dataset(
+                        batch,  # Now passing list of files directly
+                        num_workers=num_workers
+                    )
+                    
+                    # Merge batch results
+                    total_results["files"].update(batch_results["files"])
+                    total_results["summary"]["total_files"] += batch_results["summary"]["total_files"]
+                    total_results["summary"]["passed_files"] += batch_results["summary"]["passed_files"]
+                    total_results["summary"]["failed_files"] += batch_results["summary"]["failed_files"]
+                    
+                    # Merge average metrics
+                    if not total_results["summary"]["average_metrics"]:
+                        total_results["summary"]["average_metrics"] = batch_results["summary"]["average_metrics"]
+                    else:
+                        for metric, value in batch_results["summary"]["average_metrics"].items():
+                            if metric in total_results["summary"]["average_metrics"]:
+                                total_results["summary"]["average_metrics"][metric] = (
+                                    total_results["summary"]["average_metrics"][metric] + value
+                                ) / 2
+                    
+                    # Force garbage collection between batches
+                    gc.collect()
+                
+                validation_results = total_results
+                
+                # Log validation summary
+                logging.info(f"Validation complete: "
+                            f"{validation_results['summary']['passed_files']} passed, "
+                            f"{validation_results['summary']['failed_files']} failed")
             
+            # Update statistics
             self.stats["phases"]["download"] = {
                 "duration": time.time() - start_time,
-                "files_processed": len(downloaded_files)
+                "files_processed": len(downloaded_files),
+                "validation_results": validation_results
             }
             
             return downloaded_files
             
         except Exception as e:
-            self.stats["errors"].append(f"Download error: {str(e)}")
+            error_msg = f"Download processing error: {str(e)}"
+            logging.error(error_msg, exc_info=True)
+            self.stats["errors"].append(error_msg)
             raise
+
+        finally:
+            # Ensure cleanup of any remaining resources
+            gc.collect()
 
     def extract_features(self, files):
         """Extract features with caching"""

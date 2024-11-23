@@ -59,6 +59,7 @@ soxr==0.5.0.post1
 SQLAlchemy==2.0.36
 starlette==0.41.3
 threadpoolctl==3.5.0
+tqdm
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3

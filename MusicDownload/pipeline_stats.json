@@ -1,20 +1,1440 @@
 {
-    "start_time": 1732265389.111701,
+    "start_time": 1732324882.66886,
     "phases": {
         "download": {
-            "duration": 5.876204013824463,
-            "files_processed": 70
+            "duration": 64.8123300075531,
+            "files_processed": 70,
+            "validation_results": {
+                "files": {
+                    "5. Clara (the night is dark)-rBO7VKSPhAc.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 278.4009791666667,
+                            "sample_rate": 48000,
+                            "rms": 0.21560752551470483,
+                            "peak": 0.9180057634200368,
+                            "zero_crossing_rate": 0.05439673387255466,
+                            "spectral_centroid": 2518.2046895413982,
+                            "spectral_rolloff": 5469.324569680796,
+                            "clipping_ratio": 3.68173992443603e-05,
+                            "dynamic_range": 12.583589564506855
+                        },
+                        "timestamp": "2024-11-23T01:21:35.254244",
+                        "filename": "5. Clara (the night is dark)-rBO7VKSPhAc.mp3",
+                        "validation_extracted": true
+                    },
+                    "14. places to be-U4htmZsKRWY.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 226.67741666666666,
+                            "sample_rate": 48000,
+                            "rms": 0.3332112334344698,
+                            "peak": 1.1908597609271174,
+                            "zero_crossing_rate": 0.06900508116021407,
+                            "spectral_centroid": 3627.3771134467797,
+                            "spectral_rolloff": 7800.72854771471,
+                            "clipping_ratio": 0.0004844439808225989,
+                            "dynamic_range": 11.062793663329467
+                        },
+                        "timestamp": "2024-11-23T01:21:34.714877",
+                        "filename": "14. places to be-U4htmZsKRWY.mp3",
+                        "validation_extracted": true
+                    },
+                    "20. Lights Out-koiKZVI-kBU.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.3dB"
+                        ],
+                        "metrics": {
+                            "duration": 288.34866666666665,
+                            "sample_rate": 48000,
+                            "rms": 0.22840014536832942,
+                            "peak": 0.9406355352237307,
+                            "zero_crossing_rate": 0.054864437656231176,
+                            "spectral_centroid": 3069.6455402381057,
+                            "spectral_rolloff": 6785.051054419806,
+                            "clipping_ratio": 5.5416132163501435e-05,
+                            "dynamic_range": 12.294462080053506
+                        },
+                        "timestamp": "2024-11-23T01:21:35.348378",
+                        "filename": "20. Lights Out-koiKZVI-kBU.mp3",
+                        "validation_extracted": true
+                    },
+                    "13. stayinit-3hSQubTxXUk.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 9.8dB"
+                        ],
+                        "metrics": {
+                            "duration": 274.925375,
+                            "sample_rate": 48000,
+                            "rms": 0.30780626381082193,
+                            "peak": 0.9550053722092083,
+                            "zero_crossing_rate": 0.03443841269865307,
+                            "spectral_centroid": 2181.9850817458437,
+                            "spectral_rolloff": 4650.961992348669,
+                            "clipping_ratio": 0.00017883642203789105,
+                            "dynamic_range": 9.834539005816374
+                        },
+                        "timestamp": "2024-11-23T01:21:35.224286",
+                        "filename": "13. stayinit-3hSQubTxXUk.mp3",
+                        "validation_extracted": true
+                    },
+                    "12. Angie (interlude)-6ycG_maHQCE.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.8dB"
+                        ],
+                        "metrics": {
+                            "duration": 168.30572916666668,
+                            "sample_rate": 48000,
+                            "rms": 0.23796581082484303,
+                            "peak": 0.9243592444588157,
+                            "zero_crossing_rate": 0.016874719850387226,
+                            "spectral_centroid": 1061.6244279924597,
+                            "spectral_rolloff": 2026.5080049129226,
+                            "clipping_ratio": 2.4756534951585503e-07,
+                            "dynamic_range": 11.78648797200087
+                        },
+                        "timestamp": "2024-11-23T01:21:36.376451",
+                        "filename": "12. Angie (interlude)-6ycG_maHQCE.mp3",
+                        "validation_extracted": true
+                    },
+                    "16. Rumble-1ZJaCyFJJSg.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 146.571375,
+                            "sample_rate": 48000,
+                            "rms": 0.29877468446890515,
+                            "peak": 1.072565237681071,
+                            "zero_crossing_rate": 0.046002728908799514,
+                            "spectral_centroid": 2512.3641196987114,
+                            "spectral_rolloff": 5282.745301911374,
+                            "clipping_ratio": 0.00022528845094646024,
+                            "dynamic_range": 11.101569343498653
+                        },
+                        "timestamp": "2024-11-23T01:21:36.776867",
+                        "filename": "16. Rumble-1ZJaCyFJJSg.mp3",
+                        "validation_extracted": true
+                    },
+                    "8. Billie (loving arms)-ylBng2jQvfY.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.3dB"
+                        ],
+                        "metrics": {
+                            "duration": 217.265625,
+                            "sample_rate": 48000,
+                            "rms": 0.27954153513366525,
+                            "peak": 1.0270031609318473,
+                            "zero_crossing_rate": 0.05734464501719228,
+                            "spectral_centroid": 2736.5990000767456,
+                            "spectral_rolloff": 5767.961956768885,
+                            "clipping_ratio": 4.353350113867913e-05,
+                            "dynamic_range": 11.302477617440083
+                        },
+                        "timestamp": "2024-11-23T01:21:37.487806",
+                        "filename": "8. Billie (loving arms)-ylBng2jQvfY.mp3",
+                        "validation_extracted": true
+                    },
+                    "19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 10.4dB"
+                        ],
+                        "metrics": {
+                            "duration": 385.0746458333333,
+                            "sample_rate": 48000,
+                            "rms": 0.34073923910275483,
+                            "peak": 1.1304776454583192,
+                            "zero_crossing_rate": 0.056341716890006575,
+                            "spectral_centroid": 2766.334998360095,
+                            "spectral_rolloff": 5904.1387391279695,
+                            "clipping_ratio": 0.0004072803637303635,
+                            "dynamic_range": 10.416771100512443
+                        },
+                        "timestamp": "2024-11-23T01:21:39.327728",
+                        "filename": "19. Admit It (u dont want 2)-0Tr8wcZ8gJg.mp3",
+                        "validation_extracted": true
+                    },
+                    "4. Nathan (still breathing)-3eEBQQUHqto.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 9.9dB"
+                        ],
+                        "metrics": {
+                            "duration": 163.996125,
+                            "sample_rate": 48000,
+                            "rms": 0.30361851260942574,
+                            "peak": 0.9498065604883081,
+                            "zero_crossing_rate": 0.024250952596523684,
+                            "spectral_centroid": 1440.6167998828103,
+                            "spectral_rolloff": 2839.3867270788915,
+                            "clipping_ratio": 6.87262173623513e-05,
+                            "dynamic_range": 9.906109724711964
+                        },
+                        "timestamp": "2024-11-23T01:21:38.036510",
+                        "filename": "4. Nathan (still breathing)-3eEBQQUHqto.mp3",
+                        "validation_extracted": true
+                    },
+                    "11. leavemealone-Ne_8fXkcAZw.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 10.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 222.78447916666667,
+                            "sample_rate": 48000,
+                            "rms": 0.3533655978415323,
+                            "peak": 1.1299031972885132,
+                            "zero_crossing_rate": 0.04365256962936506,
+                            "spectral_centroid": 2842.146586785714,
+                            "spectral_rolloff": 6457.320126798619,
+                            "clipping_ratio": 0.0009615982561621821,
+                            "dynamic_range": 10.096314847308003
+                        },
+                        "timestamp": "2024-11-23T01:21:38.973781",
+                        "filename": "11. leavemealone-Ne_8fXkcAZw.mp3",
+                        "validation_extracted": true
+                    },
+                    "7. adore u-UJEkJoKn-is.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 220.65339583333332,
+                            "sample_rate": 48000,
+                            "rms": 0.21988179241405148,
+                            "peak": 0.9371693731531117,
+                            "zero_crossing_rate": 0.06178417677005176,
+                            "spectral_centroid": 2774.3939443287336,
+                            "spectral_rolloff": 5758.14136854921,
+                            "clipping_ratio": 3.66336265345288e-05,
+                            "dynamic_range": 12.592536873331913
+                        },
+                        "timestamp": "2024-11-23T01:21:39.689116",
+                        "filename": "7. adore u-UJEkJoKn-is.mp3",
+                        "validation_extracted": true
+                    },
+                    "18. Jungle-O10Hs4lVcfs.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.5dB"
+                        ],
+                        "metrics": {
+                            "duration": 198.80597916666667,
+                            "sample_rate": 48000,
+                            "rms": 0.2225847974419594,
+                            "peak": 0.9431511193513871,
+                            "zero_crossing_rate": 0.048796731520731315,
+                            "spectral_centroid": 2721.0208319889534,
+                            "spectral_rolloff": 5893.464615481912,
+                            "clipping_ratio": 3.9297107827176976e-05,
+                            "dynamic_range": 12.541676694135145
+                        },
+                        "timestamp": "2024-11-23T01:21:39.986069",
+                        "filename": "18. Jungle-O10Hs4lVcfs.mp3",
+                        "validation_extracted": true
+                    },
+                    "3. Kammy (like i do)-xtYyfgfv0BU.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 238.8295625,
+                            "sample_rate": 48000,
+                            "rms": 0.28524977217117947,
+                            "peak": 1.0343067745367687,
+                            "zero_crossing_rate": 0.045892151800356905,
+                            "spectral_centroid": 2589.377738281612,
+                            "spectral_rolloff": 5810.013883799012,
+                            "clipping_ratio": 6.38530667659704e-05,
+                            "dynamic_range": 11.188450810535485
+                        },
+                        "timestamp": "2024-11-23T01:21:41.291638",
+                        "filename": "3. Kammy (like i do)-xtYyfgfv0BU.mp3",
+                        "validation_extracted": true
+                    },
+                    "6. Kyle (i found you)-Ci1KQhYZvMs.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 9.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 196.0714375,
+                            "sample_rate": 48000,
+                            "rms": 0.3389881543815136,
+                            "peak": 0.9830297321081162,
+                            "zero_crossing_rate": 0.029684074469493466,
+                            "spectral_centroid": 2076.0534786950184,
+                            "spectral_rolloff": 4586.979387309225,
+                            "clipping_ratio": 1.328172374248374e-05,
+                            "dynamic_range": 9.24761699648392
+                        },
+                        "timestamp": "2024-11-23T01:21:41.175093",
+                        "filename": "6. Kyle (i found you)-Ci1KQhYZvMs.mp3",
+                        "validation_extracted": true
+                    },
+                    "9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 10.5dB"
+                        ],
+                        "metrics": {
+                            "duration": 201.23079166666668,
+                            "sample_rate": 48000,
+                            "rms": 0.2936597690332703,
+                            "peak": 0.9815641258499541,
+                            "zero_crossing_rate": 0.05321965813976936,
+                            "spectral_centroid": 2810.6048258355604,
+                            "spectral_rolloff": 5960.973564509436,
+                            "clipping_ratio": 0.00011895545309811144,
+                            "dynamic_range": 10.48145491320643
+                        },
+                        "timestamp": "2024-11-23T01:21:41.634893",
+                        "filename": "9. Danielle (smile on my face)-Ho_2xO-UpFA.mp3",
+                        "validation_extracted": true
+                    },
+                    "2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 250.70245833333334,
+                            "sample_rate": 48000,
+                            "rms": 0.19448904779094917,
+                            "peak": 0.8865262476297525,
+                            "zero_crossing_rate": 0.05826033771207803,
+                            "spectral_centroid": 2605.8278837390876,
+                            "spectral_rolloff": 5299.293086810578,
+                            "clipping_ratio": 4.736690688613444e-06,
+                            "dynamic_range": 13.175884307315137
+                        },
+                        "timestamp": "2024-11-23T01:21:42.358831",
+                        "filename": "2. Delilah (pull me out of this)-Q6MhT4n9nKI.mp3",
+                        "validation_extracted": true
+                    },
+                    "17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 267.94666666666666,
+                            "sample_rate": 48000,
+                            "rms": 0.2884420625589512,
+                            "peak": 1.166799944859964,
+                            "zero_crossing_rate": 0.06909238795092695,
+                            "spectral_centroid": 3384.069916209973,
+                            "spectral_rolloff": 7056.488991354748,
+                            "clipping_ratio": 0.00044069718792741624,
+                            "dynamic_range": 12.138726037376323
+                        },
+                        "timestamp": "2024-11-23T01:21:43.681018",
+                        "filename": "17. Turn On The Lights again.. (feat. Future)-J0_pBtUAsKA.mp3",
+                        "validation_extracted": true
+                    },
+                    "10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.9dB"
+                        ],
+                        "metrics": {
+                            "duration": 228.85802083333334,
+                            "sample_rate": 48000,
+                            "rms": 0.23670564105977182,
+                            "peak": 0.9320628021074377,
+                            "zero_crossing_rate": 0.03772408733658552,
+                            "spectral_centroid": 2020.1445542253043,
+                            "spectral_rolloff": 4366.829547236294,
+                            "clipping_ratio": 3.9507755217595336e-05,
+                            "dynamic_range": 11.904694665403621
+                        },
+                        "timestamp": "2024-11-23T01:21:43.372344",
+                        "filename": "10. Dermot (see yourself in my eyes)-MsLuIY008T8.mp3",
+                        "validation_extracted": true
+                    },
+                    "15. Baby again..-uDJjMmLr_JQ.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 10.5dB"
+                        ],
+                        "metrics": {
+                            "duration": 319.9636875,
+                            "sample_rate": 48000,
+                            "rms": 0.297205938026309,
+                            "peak": 1.0002665016800165,
+                            "zero_crossing_rate": 0.05820266231088295,
+                            "spectral_centroid": 3222.9424035615652,
+                            "spectral_rolloff": 7004.902059420805,
+                            "clipping_ratio": 0.00010339715655215019,
+                            "dynamic_range": 10.541135627435914
+                        },
+                        "timestamp": "2024-11-23T01:21:44.629314",
+                        "filename": "15. Baby again..-uDJjMmLr_JQ.mp3",
+                        "validation_extracted": true
+                    },
+                    "1. Mike (desert island duvet)-_OuA1qh6ofo.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 264.0975208333333,
+                            "sample_rate": 48000,
+                            "rms": 0.22949950983402906,
+                            "peak": 0.9308841051878752,
+                            "zero_crossing_rate": 0.053774128405366745,
+                            "spectral_centroid": 2618.458677671485,
+                            "spectral_rolloff": 5463.51694920958,
+                            "clipping_ratio": 5.072305998100449e-05,
+                            "dynamic_range": 12.162239202954526
+                        },
+                        "timestamp": "2024-11-23T01:21:44.850732",
+                        "filename": "1. Mike (desert island duvet)-_OuA1qh6ofo.mp3",
+                        "validation_extracted": true
+                    },
+                    "47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 16.3dB"
+                        ],
+                        "metrics": {
+                            "duration": 360.0370208333333,
+                            "sample_rate": 48000,
+                            "rms": 0.12742253090884234,
+                            "peak": 0.8332662340757009,
+                            "zero_crossing_rate": 0.06426289706300783,
+                            "spectral_centroid": 2647.042601407833,
+                            "spectral_rolloff": 5022.386934175647,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 16.310682966345333
+                        },
+                        "timestamp": "2024-11-23T01:21:46.824169",
+                        "filename": "47. Eddie Amador - House Music (Original mix) HQ 320!-i5vnIX1niDQ.mp3",
+                        "validation_extracted": true
+                    },
+                    "41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 15.3dB"
+                        ],
+                        "metrics": {
+                            "duration": 213.8441875,
+                            "sample_rate": 48000,
+                            "rms": 0.1535300875230777,
+                            "peak": 0.8891852352006192,
+                            "zero_crossing_rate": 0.09237121494889623,
+                            "spectral_centroid": 3546.221628046007,
+                            "spectral_rolloff": 6916.378656431502,
+                            "clipping_ratio": 1.948459163364759e-07,
+                            "dynamic_range": 15.255918329414806
+                        },
+                        "timestamp": "2024-11-23T01:21:45.632130",
+                        "filename": "41. GALA - Freed from desire [Official Video]-p3l7fgvrEKM.mp3",
+                        "validation_extracted": true
+                    },
+                    "44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.5dB"
+                        ],
+                        "metrics": {
+                            "duration": 360.37370833333335,
+                            "sample_rate": 48000,
+                            "rms": 0.2607441417671539,
+                            "peak": 0.9759648232846647,
+                            "zero_crossing_rate": 0.06378187545471244,
+                            "spectral_centroid": 2678.2356351154085,
+                            "spectral_rolloff": 5345.623325217542,
+                            "clipping_ratio": 4.624828693454676e-06,
+                            "dynamic_range": 11.46435878631493
+                        },
+                        "timestamp": "2024-11-23T01:21:48.226095",
+                        "filename": "44. Kings of Tomorrow - Finally (Original Extended Mix) 2001-syPi_HXY1e0.mp3",
+                        "validation_extracted": true
+                    },
+                    "19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 17.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 290.73066666666665,
+                            "sample_rate": 48000,
+                            "rms": 0.06290797519037976,
+                            "peak": 0.4582721491887545,
+                            "zero_crossing_rate": 0.06636616570196378,
+                            "spectral_centroid": 2694.768234106077,
+                            "spectral_rolloff": 5515.401966777138,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 17.248217080239293
+                        },
+                        "timestamp": "2024-11-23T01:21:47.591922",
+                        "filename": "19. Deee-Lite - Groove Is In The Heart (Official Video)-etviGf1uWlg.mp3",
+                        "validation_extracted": true
+                    },
+                    "14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 361.8946041666667,
+                            "sample_rate": 48000,
+                            "rms": 0.1761149367367899,
+                            "peak": 0.9426572751757261,
+                            "zero_crossing_rate": 0.06906560832299502,
+                            "spectral_centroid": 3473.9931311222063,
+                            "spectral_rolloff": 7362.5590519148955,
+                            "clipping_ratio": 0.00010097322879629836,
+                            "dynamic_range": 14.571103331548748
+                        },
+                        "timestamp": "2024-11-23T01:21:49.406207",
+                        "filename": "14. Shapeshifters - Lola's Theme (Club Mix)-fVL1NxraxWw.mp3",
+                        "validation_extracted": true
+                    },
+                    "32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 15.0dB"
+                        ],
+                        "metrics": {
+                            "duration": 320.4818333333333,
+                            "sample_rate": 48000,
+                            "rms": 0.05355580968545948,
+                            "peak": 0.29944996356921777,
+                            "zero_crossing_rate": 0.02746658399995189,
+                            "spectral_centroid": 1660.300458746945,
+                            "spectral_rolloff": 3457.359138367311,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 14.95019131744533
+                        },
+                        "timestamp": "2024-11-23T01:21:50.314919",
+                        "filename": "32. Massive Attack - Unfinished Sympathy-ZWmrfgj0MZI.mp3",
+                        "validation_extracted": true
+                    },
+                    "27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 16.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 380.0061875,
+                            "sample_rate": 48000,
+                            "rms": 0.12566280966767898,
+                            "peak": 0.8065174535298959,
+                            "zero_crossing_rate": 0.08134400969055819,
+                            "spectral_centroid": 3662.9471510703324,
+                            "spectral_rolloff": 8167.88738313925,
+                            "clipping_ratio": 5.482366871548199e-08,
+                            "dynamic_range": 16.148070968450455
+                        },
+                        "timestamp": "2024-11-23T01:21:51.780413",
+                        "filename": "27. Room 5 feat. Oliver Cheatham - Make Luv (Extended Version)-GGoqfIajW7I.mp3",
+                        "validation_extracted": true
+                    },
+                    "38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 183.00808333333333,
+                            "sample_rate": 48000,
+                            "rms": 0.2285862883650943,
+                            "peak": 0.9240593471025166,
+                            "zero_crossing_rate": 0.08622794103915765,
+                            "spectral_centroid": 3873.1069425685105,
+                            "spectral_rolloff": 8172.078339881368,
+                            "clipping_ratio": 2.276766722595441e-06,
+                            "dynamic_range": 12.132955771602013
+                        },
+                        "timestamp": "2024-11-23T01:21:50.208753",
+                        "filename": "38. Alex Gaudino feat. Crystal Waters - Destination Calabria [Explicit Version] [Official Video]-Kq4OtRsdXls.mp3",
+                        "validation_extracted": true
+                    },
+                    "10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 16.0dB"
+                        ],
+                        "metrics": {
+                            "duration": 530.4018333333333,
+                            "sample_rate": 48000,
+                            "rms": 0.15225522713498557,
+                            "peak": 0.9557245604927529,
+                            "zero_crossing_rate": 0.07544897026329297,
+                            "spectral_centroid": 3077.789559806529,
+                            "spectral_rolloff": 6379.214735571827,
+                            "clipping_ratio": 1.4533006578974243e-06,
+                            "dynamic_range": 15.955153657612973
+                        },
+                        "timestamp": "2024-11-23T01:21:54.906747",
+                        "filename": "10. Show Me Love - Robin S - HQ-YYqX6_6ouA0.mp3",
+                        "validation_extracted": true
+                    },
+                    "35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.3dB"
+                        ],
+                        "metrics": {
+                            "duration": 306.6891609977324,
+                            "sample_rate": 44100,
+                            "rms": 0.20771857423167076,
+                            "peak": 0.9599521179353038,
+                            "zero_crossing_rate": 0.09018544544764627,
+                            "spectral_centroid": 3650.040862338867,
+                            "spectral_rolloff": 7707.273076977377,
+                            "clipping_ratio": 1.0351208366793e-06,
+                            "dynamic_range": 13.29544294778038
+                        },
+                        "timestamp": "2024-11-23T01:21:53.179042",
+                        "filename": "35. David Morales - Needin' U II-2b6Lu8eEVgE.mp3",
+                        "validation_extracted": true
+                    },
+                    "49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.8dB"
+                        ],
+                        "metrics": {
+                            "duration": 184.38966666666667,
+                            "sample_rate": 48000,
+                            "rms": 0.26937610616809443,
+                            "peak": 1.0433475437917208,
+                            "zero_crossing_rate": 0.06954018206556231,
+                            "spectral_centroid": 3080.6737514803567,
+                            "spectral_rolloff": 6541.982442441871,
+                            "clipping_ratio": 3.479949165625695e-05,
+                            "dynamic_range": 11.761366297315652
+                        },
+                        "timestamp": "2024-11-23T01:21:52.097064",
+                        "filename": "49. Quim Barreiros - Os bichos da fazenda (Official Video)-dC2jJuTe2O0.mp3",
+                        "validation_extracted": true
+                    },
+                    "3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.8dB"
+                        ],
+                        "metrics": {
+                            "duration": 536.6247708333333,
+                            "sample_rate": 48000,
+                            "rms": 0.2366721515233318,
+                            "peak": 0.9218726097433655,
+                            "zero_crossing_rate": 0.04919556479488181,
+                            "spectral_centroid": 2500.02547552697,
+                            "spectral_rolloff": 5942.019448624661,
+                            "clipping_ratio": 1.5140934144390471e-06,
+                            "dynamic_range": 11.810438355104186
+                        },
+                        "timestamp": "2024-11-23T01:21:57.111634",
+                        "filename": "3. Octave One feat. Ann Saunderson - Black Water-Bmg_DtZ0Scw.mp3",
+                        "validation_extracted": true
+                    },
+                    "13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 475.010625,
+                            "sample_rate": 48000,
+                            "rms": 0.16737463350583917,
+                            "peak": 0.7099663949096188,
+                            "zero_crossing_rate": 0.07126497203116966,
+                            "spectral_centroid": 3209.275800072619,
+                            "spectral_rolloff": 6794.930334583966,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 12.550911175837761
+                        },
+                        "timestamp": "2024-11-23T01:21:56.768568",
+                        "filename": "13. David Morales - Needin U (Club Mix)-OoS4qDqjAXw.mp3",
+                        "validation_extracted": true
+                    },
+                    "18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.9dB"
+                        ],
+                        "metrics": {
+                            "duration": 243.28533333333334,
+                            "sample_rate": 48000,
+                            "rms": 0.2189056382351555,
+                            "peak": 0.9611042357236147,
+                            "zero_crossing_rate": 0.06765832049767631,
+                            "spectral_centroid": 3720.4397643649518,
+                            "spectral_rolloff": 8292.17620828762,
+                            "clipping_ratio": 3.168433225184146e-06,
+                            "dynamic_range": 12.850231194415969
+                        },
+                        "timestamp": "2024-11-23T01:21:55.491320",
+                        "filename": "18. CeCe Peniston - Finally (Official Music Video)-xk8mm1Qmt-Y.mp3",
+                        "validation_extracted": true
+                    },
+                    "45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 631.5015,
+                            "sample_rate": 48000,
+                            "rms": 0.21499212726484984,
+                            "peak": 0.9216605424880981,
+                            "zero_crossing_rate": 0.05278902625354022,
+                            "spectral_centroid": 2845.806447461624,
+                            "spectral_rolloff": 6262.135144722461,
+                            "clipping_ratio": 1.22063583184402e-05,
+                            "dynamic_range": 12.642928364384291
+                        },
+                        "timestamp": "2024-11-23T01:22:01.086087",
+                        "filename": "45. Masters At Work feat. India - To Be In Love (Original MAW Mix)-MkYgfrf95c8.mp3",
+                        "validation_extracted": true
+                    },
+                    "12. Ce Ce Peniston - Finally (12\uff02 Choice Mix)-PnvzR1hQGs0.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.5dB"
+                        ],
+                        "metrics": {
+                            "duration": 239.676375,
+                            "sample_rate": 48000,
+                            "rms": 0.25389211252331734,
+                            "peak": 1.0649711340665817,
+                            "zero_crossing_rate": 0.10417474297183756,
+                            "spectral_centroid": 4434.786359508502,
+                            "spectral_rolloff": 9416.70038506996,
+                            "clipping_ratio": 7.640511084999513e-05,
+                            "dynamic_range": 12.453738334039713
+                        },
+                        "timestamp": "2024-11-23T01:21:57.717116",
+                        "filename": "12. Ce Ce Peniston - Finally (12\uff02 Choice Mix)-PnvzR1hQGs0.mp3",
+                        "validation_extracted": true
+                    },
+                    "11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 263.00083333333333,
+                            "sample_rate": 48000,
+                            "rms": 0.22990290546375844,
+                            "peak": 0.9210780778968776,
+                            "zero_crossing_rate": 0.0433138914214669,
+                            "spectral_centroid": 2475.773135120683,
+                            "spectral_rolloff": 5384.447889940705,
+                            "clipping_ratio": 4.832050978296249e-06,
+                            "dynamic_range": 12.055001943070609
+                        },
+                        "timestamp": "2024-11-23T01:21:59.206867",
+                        "filename": "11. Stardust - Music Sounds Better With You (Official Music Video)-FQlAEiCb8m0.mp3",
+                        "validation_extracted": true
+                    },
+                    "5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.8dB"
+                        ],
+                        "metrics": {
+                            "duration": 227.33497916666667,
+                            "sample_rate": 48000,
+                            "rms": 0.16783519542735556,
+                            "peak": 0.9232482314109802,
+                            "zero_crossing_rate": 0.06461247248276232,
+                            "spectral_centroid": 3328.238468220404,
+                            "spectral_rolloff": 7492.242774699465,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 14.808657163369308
+                        },
+                        "timestamp": "2024-11-23T01:21:59.208183",
+                        "filename": "5. Groovejet (If This Ain't Love) - Spiller Feat. Sophie Ellis-Bextor-vgtgUSOLQyY.mp3",
+                        "validation_extracted": true
+                    },
+                    "36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.4dB"
+                        ],
+                        "metrics": {
+                            "duration": 220.357375,
+                            "sample_rate": 48000,
+                            "rms": 0.1556272180295428,
+                            "peak": 0.7275944169074215,
+                            "zero_crossing_rate": 0.09725935756258212,
+                            "spectral_centroid": 3696.3426609642743,
+                            "spectral_rolloff": 7241.087958544872,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 13.396020263495572
+                        },
+                        "timestamp": "2024-11-23T01:21:59.767629",
+                        "filename": "36. Junior Jack - E Samba (Official Video)-8vNN6PXm5q8.mp3",
+                        "validation_extracted": true
+                    },
+                    "25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 531.1449791666666,
+                            "sample_rate": 48000,
+                            "rms": 0.2185130480814863,
+                            "peak": 0.7962458685592368,
+                            "zero_crossing_rate": 0.08280691602253148,
+                            "spectral_centroid": 3843.0413415610096,
+                            "spectral_rolloff": 7974.02901751439,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 11.231356586443422
+                        },
+                        "timestamp": "2024-11-23T01:22:04.358819",
+                        "filename": "25. John Creamer & Stephane K feat Nkemdi - I Wish You Were Here-Ja_9HVhuqKU.mp3",
+                        "validation_extracted": true
+                    },
+                    "7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.0dB"
+                        ],
+                        "metrics": {
+                            "duration": 480.98977083333335,
+                            "sample_rate": 48000,
+                            "rms": 0.21461108978837729,
+                            "peak": 1.0699064755926326,
+                            "zero_crossing_rate": 0.10011710700748935,
+                            "spectral_centroid": 4023.946131499363,
+                            "spectral_rolloff": 7946.774645359209,
+                            "clipping_ratio": 0.00011989166956036704,
+                            "dynamic_range": 13.953832651311224
+                        },
+                        "timestamp": "2024-11-23T01:22:03.853848",
+                        "filename": "7. The Bucketheads  The Bomb (These Sounds Fall Into My Mind) (Armand Van Helden Re-Edit)-V8iqZMEwDfk.mp3",
+                        "validation_extracted": true
+                    },
+                    "16. Superfunk - Lucky Star-09ntlxjP1jY.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.4dB"
+                        ],
+                        "metrics": {
+                            "duration": 297.842375,
+                            "sample_rate": 48000,
+                            "rms": 0.2529581248760223,
+                            "peak": 1.1817384699980418,
+                            "zero_crossing_rate": 0.07992356630622786,
+                            "spectral_centroid": 3573.156846918443,
+                            "spectral_rolloff": 7067.103667898859,
+                            "clipping_ratio": 0.0009149134672324581,
+                            "dynamic_range": 13.389420470735088
+                        },
+                        "timestamp": "2024-11-23T01:22:02.540585",
+                        "filename": "16. Superfunk - Lucky Star-09ntlxjP1jY.mp3",
+                        "validation_extracted": true
+                    },
+                    "17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 15.9dB"
+                        ],
+                        "metrics": {
+                            "duration": 224.896,
+                            "sample_rate": 48000,
+                            "rms": 0.12286421867168468,
+                            "peak": 0.7644246440866719,
+                            "zero_crossing_rate": 0.05684478347560409,
+                            "spectral_centroid": 2655.156074636637,
+                            "spectral_rolloff": 5523.519614962576,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 15.878114435648028
+                        },
+                        "timestamp": "2024-11-23T01:22:03.137112",
+                        "filename": "17. Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video)-_KztNIg4cvE.mp3",
+                        "validation_extracted": true
+                    },
+                    "43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.3dB"
+                        ],
+                        "metrics": {
+                            "duration": 412.08454166666667,
+                            "sample_rate": 48000,
+                            "rms": 0.26844273230554316,
+                            "peak": 0.983477783167646,
+                            "zero_crossing_rate": 0.07956503325069034,
+                            "spectral_centroid": 3753.3112227398988,
+                            "spectral_rolloff": 8109.20761478232,
+                            "clipping_ratio": 8.58945914112082e-05,
+                            "dynamic_range": 11.27822570453488
+                        },
+                        "timestamp": "2024-11-23T01:22:07.410548",
+                        "filename": "43. Bob Sinclar ft Salome de Bahia - Outro Lugar (FULL version) HD-psCorCweMDY.mp3",
+                        "validation_extracted": true
+                    },
+                    "1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 505.38233333333335,
+                            "sample_rate": 48000,
+                            "rms": 0.18272442461959287,
+                            "peak": 0.8341245867458045,
+                            "zero_crossing_rate": 0.05289261748632788,
+                            "spectral_centroid": 3054.389141104871,
+                            "spectral_rolloff": 6851.723219951494,
+                            "clipping_ratio": 2.061145785995685e-07,
+                            "dynamic_range": 13.188638858366197
+                        },
+                        "timestamp": "2024-11-23T01:22:09.175348",
+                        "filename": "1. Silicone Soul - Right On!-bV2Bm7kj3cM.mp3",
+                        "validation_extracted": true
+                    },
+                    "21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.7dB"
+                        ],
+                        "metrics": {
+                            "duration": 561.0637708333334,
+                            "sample_rate": 48000,
+                            "rms": 0.15738847201257095,
+                            "peak": 0.7643581469167482,
+                            "zero_crossing_rate": 0.030123487502571728,
+                            "spectral_centroid": 1832.2067504879892,
+                            "spectral_rolloff": 3735.206933495119,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 13.72642440798802
+                        },
+                        "timestamp": "2024-11-23T01:22:10.675357",
+                        "filename": "21. Kosheen - Hide U (John Creamer & Stephane K remix) (Original Vocal Test Press)-T1uadB9EE2U.mp3",
+                        "validation_extracted": true
+                    },
+                    "37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.0dB"
+                        ],
+                        "metrics": {
+                            "duration": 211.5221875,
+                            "sample_rate": 48000,
+                            "rms": 0.15379588188608811,
+                            "peak": 0.6108499746081758,
+                            "zero_crossing_rate": 0.031869850959494635,
+                            "spectral_centroid": 2182.7516752816223,
+                            "spectral_rolloff": 4704.852823990798,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 11.979740591868438
+                        },
+                        "timestamp": "2024-11-23T01:22:07.308006",
+                        "filename": "37. Groove Armada - I See You Baby (Fatboy Slim Remix Uncensored) ft. Gramma Funk-DDjoouqRnhk.mp3",
+                        "validation_extracted": true
+                    },
+                    "39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.5dB"
+                        ],
+                        "metrics": {
+                            "duration": 146.68045833333332,
+                            "sample_rate": 48000,
+                            "rms": 0.20278295427560805,
+                            "peak": 0.850630666812261,
+                            "zero_crossing_rate": 0.042566915202375856,
+                            "spectral_centroid": 2059.514721862171,
+                            "spectral_rolloff": 4056.3498723062753,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 12.454148965246246
+                        },
+                        "timestamp": "2024-11-23T01:22:08.857313",
+                        "filename": "39. Benny Benassi - Satisfaction-a0fkNdPiIL4.mp3",
+                        "validation_extracted": true
+                    },
+                    "28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 416.1248125,
+                            "sample_rate": 48000,
+                            "rms": 0.20748462865040415,
+                            "peak": 1.0496469196819125,
+                            "zero_crossing_rate": 0.0794780606097383,
+                            "spectral_centroid": 3576.4543880960846,
+                            "spectral_rolloff": 7590.057326568687,
+                            "clipping_ratio": 0.00016236114254782633,
+                            "dynamic_range": 14.081104292805925
+                        },
+                        "timestamp": "2024-11-23T01:22:11.654767",
+                        "filename": "28. Soulsearcher - Can't Get Enough (Vocal Club Mix) [Full Length] 1999-C2H_8TibApA.mp3",
+                        "validation_extracted": true
+                    },
+                    "22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 15.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 232.52464583333332,
+                            "sample_rate": 48000,
+                            "rms": 0.029364861227804795,
+                            "peak": 0.1671012219352027,
+                            "zero_crossing_rate": 0.07966146774872905,
+                            "spectral_centroid": 3547.8663779782305,
+                            "spectral_rolloff": 7339.722335324114,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 15.10273767116471
+                        },
+                        "timestamp": "2024-11-23T01:22:11.082962",
+                        "filename": "22. Ultra Nate - Free (Official HD Video)-JgRBkjgXHro.mp3",
+                        "validation_extracted": true
+                    },
+                    "23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 231.6655,
+                            "sample_rate": 48000,
+                            "rms": 0.19410985056310892,
+                            "peak": 0.9343091870347658,
+                            "zero_crossing_rate": 0.06856338945617892,
+                            "spectral_centroid": 3213.168275933737,
+                            "spectral_rolloff": 6842.401760727612,
+                            "clipping_ratio": 4.67628254243007e-05,
+                            "dynamic_range": 13.648816133347168
+                        },
+                        "timestamp": "2024-11-23T01:22:11.374827",
+                        "filename": "23. Negrocan - Cada vez que te veo - HD-OM9H1ECeGds.mp3",
+                        "validation_extracted": true
+                    },
+                    "15. Phats & Small - Turn Around \uff02Hey What's Wrong With You\uff02-iJPX8zyUmxQ.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 213.4494375,
+                            "sample_rate": 48000,
+                            "rms": 0.2061724318710648,
+                            "peak": 0.946443222314966,
+                            "zero_crossing_rate": 0.07913229208334492,
+                            "spectral_centroid": 3170.683742052664,
+                            "spectral_rolloff": 6437.743213439924,
+                            "clipping_ratio": 2.9280942049892385e-06,
+                            "dynamic_range": 13.237237308820912
+                        },
+                        "timestamp": "2024-11-23T01:22:12.732316",
+                        "filename": "15. Phats & Small - Turn Around \uff02Hey What's Wrong With You\uff02-iJPX8zyUmxQ.mp3",
+                        "validation_extracted": true
+                    },
+                    "48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 195.37066666666666,
+                            "sample_rate": 48000,
+                            "rms": 0.26580400839447976,
+                            "peak": 1.0724030613899231,
+                            "zero_crossing_rate": 0.053028435470989545,
+                            "spectral_centroid": 2988.3321811670385,
+                            "spectral_rolloff": 7014.014123023278,
+                            "clipping_ratio": 0.0003849520638709052,
+                            "dynamic_range": 12.115897705506189
+                        },
+                        "timestamp": "2024-11-23T01:22:12.926277",
+                        "filename": "48. Black Legend - You See The Trouble With Me [Official Video]-clLD8ZISAWI.mp3",
+                        "validation_extracted": true
+                    },
+                    "33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 9.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 239.780875,
+                            "sample_rate": 48000,
+                            "rms": 0.3225926061471303,
+                            "peak": 0.9785529921452204,
+                            "zero_crossing_rate": 0.054793979470491055,
+                            "spectral_centroid": 2845.828571639607,
+                            "spectral_rolloff": 6267.461711260356,
+                            "clipping_ratio": 1.7376976652815478e-06,
+                            "dynamic_range": 9.638571877463253
+                        },
+                        "timestamp": "2024-11-23T01:22:13.590012",
+                        "filename": "33. ARMAND VAN HELDEN - You don't know me(1999)-yNSpLqmY6K0.mp3",
+                        "validation_extracted": true
+                    },
+                    "50. BMW 5 Series G31 Touring M550d xDrive \uff5c REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.8dB"
+                        ],
+                        "metrics": {
+                            "duration": 848.8867291666667,
+                            "sample_rate": 48000,
+                            "rms": 0.12528614042436376,
+                            "peak": 0.6915121905943926,
+                            "zero_crossing_rate": 0.027310968164277687,
+                            "spectral_centroid": 1199.6475735265324,
+                            "spectral_rolloff": 2324.1818681327363,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 14.837866874132512
+                        },
+                        "timestamp": "2024-11-23T01:22:20.539449",
+                        "filename": "50. BMW 5 Series G31 Touring M550d xDrive \uff5c REVIEW on ROAD & AUTOBAHN by AutoTopNL-4FtSLCRI4XI.mp3",
+                        "validation_extracted": true
+                    },
+                    "42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 242.03320833333333,
+                            "sample_rate": 48000,
+                            "rms": 0.182240643016994,
+                            "peak": 0.8251878592371941,
+                            "zero_crossing_rate": 0.07184803009075788,
+                            "spectral_centroid": 3171.933578413677,
+                            "spectral_rolloff": 6450.8136131933825,
+                            "clipping_ratio": 8.607634248537176e-08,
+                            "dynamic_range": 13.118104150324971
+                        },
+                        "timestamp": "2024-11-23T01:22:14.991005",
+                        "filename": "42. Phats & Small - Turn Around (Official Music Video)-2kXMcjKhBgU.mp3",
+                        "validation_extracted": true
+                    },
+                    "4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 469.03147916666666,
+                            "sample_rate": 48000,
+                            "rms": 0.2797771536130854,
+                            "peak": 0.9994619044851749,
+                            "zero_crossing_rate": 0.09247630884447351,
+                            "spectral_centroid": 3802.209992304434,
+                            "spectral_rolloff": 7604.8384856486355,
+                            "clipping_ratio": 6.7515016538958166e-06,
+                            "dynamic_range": 11.059048909103588
+                        },
+                        "timestamp": "2024-11-23T01:22:17.408672",
+                        "filename": "4. Madison Avenue - Don't Call Me Baby (Original Mix)-if8tC0KKWYU.mp3",
+                        "validation_extracted": true
+                    },
+                    "40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 251.20508333333333,
+                            "sample_rate": 48000,
+                            "rms": 0.16688024288473222,
+                            "peak": 0.7624921374596082,
+                            "zero_crossing_rate": 0.0614355729063288,
+                            "spectral_centroid": 2967.5692757822326,
+                            "spectral_rolloff": 6245.6647327234405,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 13.196556883155154
+                        },
+                        "timestamp": "2024-11-23T01:22:15.862024",
+                        "filename": "40. Basement Jaxx - Where's Your Head At (Official Video)-5rAOyh7YmEc.mp3",
+                        "validation_extracted": true
+                    },
+                    "9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 15.7dB"
+                        ],
+                        "metrics": {
+                            "duration": 220.62441666666666,
+                            "sample_rate": 48000,
+                            "rms": 0.028789662773741165,
+                            "peak": 0.1749855855570944,
+                            "zero_crossing_rate": 0.0680893665542465,
+                            "spectral_centroid": 3150.240417872926,
+                            "spectral_rolloff": 7067.175810091165,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 15.675012249902839
+                        },
+                        "timestamp": "2024-11-23T01:22:17.025138",
+                        "filename": "9. US3 - Cantaloop (Flip Fantasia)-JwBjhBL9G6U.mp3",
+                        "validation_extracted": true
+                    },
+                    "24. Junior Jack\u29f8Laurent Wolf - Calinda-QLDxB9HsdmA.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.0dB"
+                        ],
+                        "metrics": {
+                            "duration": 263.8831875,
+                            "sample_rate": 48000,
+                            "rms": 0.16957366280257702,
+                            "peak": 0.6024339149395624,
+                            "zero_crossing_rate": 0.05078776362821276,
+                            "spectral_centroid": 2463.7550520635323,
+                            "spectral_rolloff": 5086.31322300354,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 11.010969020113972
+                        },
+                        "timestamp": "2024-11-23T01:22:18.336644",
+                        "filename": "24. Junior Jack\u29f8Laurent Wolf - Calinda-QLDxB9HsdmA.mp3",
+                        "validation_extracted": true
+                    },
+                    "46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 15.7dB"
+                        ],
+                        "metrics": {
+                            "duration": 385.14938775510205,
+                            "sample_rate": 44100,
+                            "rms": 0.09020789012981531,
+                            "peak": 0.5496339442638251,
+                            "zero_crossing_rate": 0.07669284432619837,
+                            "spectral_centroid": 3015.587384124745,
+                            "spectral_rolloff": 6022.488559668599,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 15.696484128651885
+                        },
+                        "timestamp": "2024-11-23T01:22:20.609043",
+                        "filename": "46. Phats & Small - Turn Around (Original Mix) (HQ)-AscdyVrlOt4.mp3",
+                        "validation_extracted": true
+                    },
+                    "34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.7dB"
+                        ],
+                        "metrics": {
+                            "duration": 228.32183333333333,
+                            "sample_rate": 48000,
+                            "rms": 0.1360833027764507,
+                            "peak": 0.7368527210277059,
+                            "zero_crossing_rate": 0.07687983200304083,
+                            "spectral_centroid": 3385.211538439698,
+                            "spectral_rolloff": 6879.401071826807,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 14.671453181256185
+                        },
+                        "timestamp": "2024-11-23T01:22:19.513710",
+                        "filename": "34. Mousse T. feat. Hot 'n' Juicy - Horny '98-dH8WvayAo1M.mp3",
+                        "validation_extracted": true
+                    },
+                    "26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 11.0dB"
+                        ],
+                        "metrics": {
+                            "duration": 230.89922916666666,
+                            "sample_rate": 48000,
+                            "rms": 0.26346564789613086,
+                            "peak": 0.9304195369283358,
+                            "zero_crossing_rate": 0.06232160122240361,
+                            "spectral_centroid": 2835.832961223132,
+                            "spectral_rolloff": 6029.694579557569,
+                            "clipping_ratio": 2.7970357195897706e-06,
+                            "dynamic_range": 10.959063504059577
+                        },
+                        "timestamp": "2024-11-23T01:22:20.591677",
+                        "filename": "26. Modjo - Chillin' (Official Video)-hTl0F2cKzLk.mp3",
+                        "validation_extracted": true
+                    },
+                    "6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.5dB"
+                        ],
+                        "metrics": {
+                            "duration": 446.41525,
+                            "sample_rate": 48000,
+                            "rms": 0.1840135344200664,
+                            "peak": 0.9747256994247436,
+                            "zero_crossing_rate": 0.08775116584032013,
+                            "spectral_centroid": 3869.860303884398,
+                            "spectral_rolloff": 8141.5199490504265,
+                            "clipping_ratio": 1.4560434483364984e-05,
+                            "dynamic_range": 14.480605790964995
+                        },
+                        "timestamp": "2024-11-23T01:22:23.744096",
+                        "filename": "6. Armand Van Helden - You Don't Know Me (Original Mix) (1998)-a8u5-CnmJk8.mp3",
+                        "validation_extracted": true
+                    },
+                    "31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 10.4dB"
+                        ],
+                        "metrics": {
+                            "duration": 339.54541666666665,
+                            "sample_rate": 48000,
+                            "rms": 0.3224993632996784,
+                            "peak": 1.0706423661288094,
+                            "zero_crossing_rate": 0.06755333700299046,
+                            "spectral_centroid": 3322.6116064765924,
+                            "spectral_rolloff": 6762.617174882127,
+                            "clipping_ratio": 0.000112159769505538,
+                            "dynamic_range": 10.422284330809008
+                        },
+                        "timestamp": "2024-11-23T01:22:23.730416",
+                        "filename": "31. Paul Johnson - Get Get Down (Original Extended Mix)-9APAHhIPhJE.mp3",
+                        "validation_extracted": true
+                    },
+                    "2. Gadjo - So Many Times-fKrYdb1JaBM.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 14.3dB"
+                        ],
+                        "metrics": {
+                            "duration": 346.1289791666667,
+                            "sample_rate": 48000,
+                            "rms": 0.17935423612860696,
+                            "peak": 0.9257571071386337,
+                            "zero_crossing_rate": 0.09209790759110667,
+                            "spectral_centroid": 3645.2168297668836,
+                            "spectral_rolloff": 7864.7838597882355,
+                            "clipping_ratio": 4.153076126306722e-06,
+                            "dynamic_range": 14.255659895865483
+                        },
+                        "timestamp": "2024-11-23T01:22:23.761691",
+                        "filename": "2. Gadjo - So Many Times-fKrYdb1JaBM.mp3",
+                        "validation_extracted": true
+                    },
+                    "8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 16.0dB"
+                        ],
+                        "metrics": {
+                            "duration": 449.9562916666667,
+                            "sample_rate": 48000,
+                            "rms": 0.14399255025717947,
+                            "peak": 0.9061333729161156,
+                            "zero_crossing_rate": 0.07233284559778126,
+                            "spectral_centroid": 2822.3191318639656,
+                            "spectral_rolloff": 5729.553923845898,
+                            "clipping_ratio": 5.5560952170261724e-06,
+                            "dynamic_range": 15.97698172230184
+                        },
+                        "timestamp": "2024-11-23T01:22:24.919244",
+                        "filename": "8. Gypsy Woman (She's Homeless) - Crystal Waters - HQ-tN6FIac7Wwc.mp3",
+                        "validation_extracted": true
+                    },
+                    "29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.6dB"
+                        ],
+                        "metrics": {
+                            "duration": 295.50877083333336,
+                            "sample_rate": 48000,
+                            "rms": 0.25171014106696626,
+                            "peak": 1.0703863702598029,
+                            "zero_crossing_rate": 0.08979617228269143,
+                            "spectral_centroid": 4049.1206595535696,
+                            "spectral_rolloff": 9189.027032133477,
+                            "clipping_ratio": 7.113438045867364e-05,
+                            "dynamic_range": 12.572762639200734
+                        },
+                        "timestamp": "2024-11-23T01:22:26.457502",
+                        "filename": "29. Alan Braxe, Fred Falke - Intro (Official Audio)-0nS0accElcA.mp3",
+                        "validation_extracted": true
+                    },
+                    "30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 12.2dB"
+                        ],
+                        "metrics": {
+                            "duration": 413.02495833333336,
+                            "sample_rate": 48000,
+                            "rms": 0.2725208032698858,
+                            "peak": 1.1156607752754575,
+                            "zero_crossing_rate": 0.10045921657566223,
+                            "spectral_centroid": 3984.6736306870894,
+                            "spectral_rolloff": 7883.253034665884,
+                            "clipping_ratio": 0.0006550249838614474,
+                            "dynamic_range": 12.242618206068682
+                        },
+                        "timestamp": "2024-11-23T01:22:27.427240",
+                        "filename": "30. Soulsearcher - Feelin' Love (Original Mix) (2003)-Bis6HAH4GwA.mp3",
+                        "validation_extracted": true
+                    },
+                    "20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3": {
+                        "passed": false,
+                        "issues": [
+                            "Low dynamic range: 13.1dB"
+                        ],
+                        "metrics": {
+                            "duration": 391.84897916666665,
+                            "sample_rate": 48000,
+                            "rms": 0.17753061566036193,
+                            "peak": 0.8056138291954994,
+                            "zero_crossing_rate": 0.09749403182885794,
+                            "spectral_centroid": 3765.181746922598,
+                            "spectral_rolloff": 7632.1107909115135,
+                            "clipping_ratio": 0.0,
+                            "dynamic_range": 13.137024145061238
+                        },
+                        "timestamp": "2024-11-23T01:22:27.269980",
+                        "filename": "20. Junior Jack - My Feeling (Kick N' Deep) (1999)-Eq9FXuwJpjw.mp3",
+                        "validation_extracted": true
+                    }
+                },
+                "summary": {
+                    "total_files": 70,
+                    "passed_files": 0,
+                    "failed_files": 70,
+                    "average_metrics": {
+                        "duration": 311.58777480361186,
+                        "sample_rate": 47888.57142857143,
+                        "rms": 0.2134621203709345,
+                        "peak": 0.8917198155266566,
+                        "zero_crossing_rate": 0.06395180718888524,
+                        "spectral_centroid": 2994.3768543602923,
+                        "spectral_rolloff": 6313.888875136305,
+                        "clipping_ratio": 8.869543701274011e-05,
+                        "dynamic_range": 12.803395465533804
+                    }
+                }
+            }
         },
         "feature_extraction": {
-            "duration": 460.8816788196564,
+            "duration": 462.3273949623108,
             "files_processed": 70
         },
         "metadata": {
-            "duration": 0.3328990936279297
+            "duration": 0.3364872932434082
         }
     },
     "errors": [],
-    "total_duration": 467.0921719074249,
+    "total_duration": 527.4865801334381,
     "final_state": {
         "total_files": 70,
         "features_extracted": 0,
